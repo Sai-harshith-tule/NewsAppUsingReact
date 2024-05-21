@@ -230,7 +230,6 @@ import NewsItem from './NewsItem';
 import Spinner from './Spinner';
 
 export class News extends Component {
-
     constructor(){
         super();
         this.state = {
@@ -279,37 +278,46 @@ export class News extends Component {
         return (
             <div className="container my-4 text-center">
                 <h1>My News App - Top Headlines</h1>
-                {this.state.loading && <Spinner />}
-                <div className="row">
-                    {!this.state.loading && this.state.articles.length > 0 && this.state.articles.map((element) => (
-                        <div className="col-md-3" key={element.url}>
-                            <NewsItem
-                                title={element.title ? element.title.slice(0, 45) : ""}
-                                description={element.description ? element.description.slice(0, 88) : ""}
-                                imageUrl={element.urlToImage}
-                                newsUrl={element.url}
-                            />
+                {this.state.loading ? (
+                    <Spinner />
+                ) : (
+                    <>
+                        <div className="row">
+                            {this.state.articles.length > 0 ? (
+                                this.state.articles.map((element) => (
+                                    <div className="col-md-3" key={element.url}>
+                                        <NewsItem
+                                            title={element.title ? element.title.slice(0, 45) : ""}
+                                            description={element.description ? element.description.slice(0, 88) : ""}
+                                            imageUrl={element.urlToImage}
+                                            newsUrl={element.url}
+                                        />
+                                    </div>
+                                ))
+                            ) : (
+                                <p>No articles available</p>
+                            )}
                         </div>
-                    ))}
-                </div>
-                <div className="container d-flex justify-content-between">
-                    <button
-                        type="button"
-                        disabled={this.state.page <= 1}
-                        className="btn btn-warning"
-                        onClick={this.handlePreviousClick}
-                    >
-                        &larr; Previous
-                    </button>
-                    <button
-                        type="button"
-                        disabled={this.state.page >= Math.ceil(this.state.totalResults / 16)}
-                        className="btn btn-warning"
-                        onClick={this.handleNextClick}
-                    >
-                        Next &rarr;
-                    </button>
-                </div>
+                        <div className="container d-flex justify-content-between">
+                            <button
+                                type="button"
+                                disabled={this.state.page <= 1}
+                                className="btn btn-warning"
+                                onClick={this.handlePreviousClick}
+                            >
+                                &larr; Previous
+                            </button>
+                            <button
+                                type="button"
+                                disabled={this.state.page >= Math.ceil(this.state.totalResults / 16)}
+                                className="btn btn-warning"
+                                onClick={this.handleNextClick}
+                            >
+                                Next &rarr;
+                            </button>
+                        </div>
+                    </>
+                )}
             </div>
         );
     }
