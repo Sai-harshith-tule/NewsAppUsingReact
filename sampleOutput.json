@@ -1,1306 +1,162 @@
 {
     "status": "ok",
-    "totalResults": 224,
+    "totalResults": 12,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Slashdot.org"
+                "id": "cbc-news",
+                "name": "CBC News"
             },
-            "author": "BeauHD",
-            "title": "Apple Will Revamp Siri To Catch Up To Its Chatbot Competitors",
-            "description": "An anonymous reader quotes a report from the New York Times: Apple's top software executives decided early last year that Siri, the company's virtual assistant, needed a brain transplant. The decision came after the executives Craig Federighi and John Giannan…",
-            "url": "https://apple.slashdot.org/story/24/05/10/218225/apple-will-revamp-siri-to-catch-up-to-its-chatbot-competitors",
-            "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
-            "publishedAt": "2024-05-11T00:02:00Z",
-            "content": "Apple's top software executives decided early last year that Siri, the company's virtual assistant, needed a brain transplant. The decision came after the executives Craig Federighi and John Giannand… [+1815 chars]"
+            "author": "CBC News",
+            "title": "Canada's Nurse helps lift Sparks past Storm on home soil in WNBA pre-season action | CBC Sports",
+            "description": "Canadian Kia Nurse had nine points in 19 minutes of action as the Los Angeles Sparks opened their WNBA pre-season schedule with a 84-79 win over the Seattle Storm on Saturday at Rogers Place in Edmonton.",
+            "url": "http://www.cbc.ca/sports/basketball/wnba-canada-game-edmonton-recap-may-4-1.7194505",
+            "urlToImage": "https://i.cbc.ca/1.7194608.1714882967!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/wnba-edmonton-04052024.jpg",
+            "publishedAt": "2024-05-10T08:07:18.6229827Z",
+            "content": "Canadian Kia Nurse had nine points in 19 minutes of action as the Los Angeles Sparks opened their WNBA pre-season schedule with a 84-79 win over the Seattle Storm on Saturday at Rogers Place in Edmon… [+1955 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Overengineer.dev"
+                "id": "cbc-news",
+                "name": "CBC News"
             },
-            "author": "Dennis Schubert",
-            "title": "Thread – the tech we can't use or teach",
-            "description": "Random thoughts, articles and projects by a chronic overengineer.",
-            "url": "https://overengineer.dev/blog/2024/05/10/thread/",
-            "urlToImage": "https://overengineer.dev/statics/opengraph_fallback-d32ef7.png",
-            "publishedAt": "2024-05-11T05:51:18Z",
-            "content": "2024-05-10 electronics, hacking, hardware, overengineering, rant\r\nA lot of my projects dont work out. Thats fine, failing is a very healthy way to learn. However, there are cases where the reasons be… [+10655 chars]"
+            "author": "CBC News",
+            "title": "WNBA announces full-time charter program for 2024, 2025 seasons amid player safety concerns | CBC Sports",
+            "description": "The WNBA will use league-wide charter flights for the first time this season, the league announced Thursday. The charters will begin at the start of the regular season on Tuesday.",
+            "url": "http://www.cbc.ca/sports/basketball/wnba-announces-charter-program-upcoming-season-1.7199804",
+            "urlToImage": "https://i.cbc.ca/1.7199833.1715300475!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aces-sparks-basketball.jpg",
+            "publishedAt": "2024-05-10T08:07:17.5515444Z",
+            "content": "The WNBA will use league-wide charter flights for the first time this season, the league announced Thursday.\r\nThe charters will begin at the start of the regular season.\r\n\"We are thrilled to announce… [+1730 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "heise online"
+                "id": "cbc-news",
+                "name": "CBC News"
             },
-            "author": "Dr. Christopher Kunz",
-            "title": "Selbstverpflichtung: Über 60 Hersteller geloben, \"Secure by Design\" zu werden",
-            "description": "Neben Verbesserungen wie Zweifaktor-Authentifizierung müssen Unterzeichner binnen Jahresfrist auch ihr Software und Patchmanagement verbessern.",
-            "url": "https://www.heise.de/news/Selbstverpflichtung-Ueber-60-Hersteller-geloben-Secure-by-Design-zu-werden-9714438.html",
-            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/8/8/1/0/6/cisa-94ca8d068eec6f7d.png",
-            "publishedAt": "2024-05-11T07:35:00Z",
-            "content": "Die US-Cybersicherheitsbehörde CISA legt in ihrem Bestreben, die Sicherheitsstandards in unternehmenstauglicher Software zu verbessern, nach: Unter dem Titel \"Secure by Design Pledge\" hebt sie eine f… [+2161 chars]"
+            "author": "CBC News",
+            "title": "'Where the hell have you been?' ask WNBA followers over the outrage at Caitlin Clark's salary | CBC News",
+            "description": "While the massive gender gap in professional sports salaries might be getting attention now thanks to No. 1 draft pick Caitlin Clark's earnings, it's been a long-standing problem for women athletes.",
+            "url": "http://www.cbc.ca/news/world/caitlin-clark-salary-wnba-1.7177262",
+            "urlToImage": "https://i.cbc.ca/1.7177321.1713448555!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/wnba-fever-clark-basketball.jpg",
+            "publishedAt": "2024-05-10T08:07:16.8945976Z",
+            "content": "She's the NCAA Division I all-time leading scorer in both men's and women's basketball. She helped attract record-breaking March Madness TV audiences.\r\nNow, 22-year-old Caitlin Clark is the No. 1 dra… [+7347 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "9to5Mac"
+                "id": "cbc-news",
+                "name": "CBC News"
             },
-            "author": "Chance Miller",
-            "title": "Bloomberg: Apple finalizing deal with OpenAI to bring ChatGPT features to iOS 18",
-            "description": "Apple is finalizing an agreement with OpenAI to bring some of its technology to the iPhone this year, according to a new report from Bloomberg. With this deal, the report explains that Apple will be able to offer “a popular chatbot” powered by ChatGPT as part…",
-            "url": "https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/chatgpt-ios-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-05-11T01:33:02Z",
-            "content": "Apple is finalizing an agreement with OpenAI to bring some of its technology to the iPhone this year, according to a new report from Bloomberg. With this deal, the report explains that Apple will be … [+1760 chars]"
+            "author": "CBC News",
+            "title": "NCAA star Caitlin Clark headed to Indiana Fever as 1st overall pick of WNBA draft | CBC Sports",
+            "description": "Caitlin Clark was selected with the No. 1 pick in the WNBA draft by the Indiana Fever on Monday night, while Aaliyah Edwards of Kingston, Ont., was picked sixth by the Washington Mystics.",
+            "url": "http://www.cbc.ca/sports/basketball/wnba-draft-recap-clark-edwards-april-15-1.7174492",
+            "urlToImage": "https://i.cbc.ca/1.7174611.1713218065!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clark-caitlin-041524.jpg",
+            "publishedAt": "2024-05-10T08:07:15.6223569Z",
+            "content": "Caitlin Clark admitted she was a bit nervous before being chosen with the No. 1 pick in the WNBA draft by the Indiana Fever, even though it was no surprise.\r\n\"I dreamt of this moment since I was in s… [+5926 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "9to5Mac"
+                "id": "cbc-news",
+                "name": "CBC News"
             },
-            "author": "Benjamin Mayo",
-            "title": "iPad Pro with M4 chip boasts impressive performance jump compared to just-released M3 MacBook Air",
-            "description": "The M4 is looking like a very strong generation for Apple Silicon. According to leaked Geekbench scores likely posted by reviewers who already got their hands on the new iPad ahead of next week’s embargo, with the M4 chip scores about 3700 in single-core CPU …",
-            "url": "https://9to5mac.com/2024/05/11/ipad-pro-with-m4-chip-geekbench-compared-m3/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/05/apple-m4-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-05-11T08:05:04Z",
-            "content": "The M4 is looking like a very strong generation for Apple Silicon. According to leaked Geekbench scores likely posted by reviewers who already got their hands on the new iPad ahead of next week’s emb… [+2902 chars]"
+            "author": "CBC News",
+            "title": "About 17 million Canadians consider themselves women's sports fans, report says | CBC Sports",
+            "description": "Allison Sandmeyer-Graves always suspected there was a large fan base for women's sports in Canada, and now she has proof.",
+            "url": "http://www.cbc.ca/sports/canadian-women-sports-repot-april-22-1.7181419",
+            "urlToImage": "https://i.cbc.ca/1.7181437.1713817749!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/pwhl-fans-042224.JPG",
+            "publishedAt": "2024-05-10T08:07:14.8256807Z",
+            "content": "Allison Sandmeyer-Graves always suspected there was a large fan base for women's sports in Canada, and now she has proof.\r\nSandmeyer-Graves, the CEO of Canadian Women &amp; Sport, led a panel of lumi… [+4279 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Police"
+                "id": "cbc-news",
+                "name": "CBC News"
             },
-            "author": "Chethan Rao",
-            "title": "Gemini AI is getting a new home in the Google app's settings menu",
-            "description": "A new option to try Google's AI chatbot",
-            "url": "https://www.androidpolice.com/gemini-ai-new-home-google-app-settings-menu/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg",
-            "publishedAt": "2024-05-11T06:57:42Z",
-            "content": "Summary\r\n<ul><li> The Google app settings page will pick up a new Gemini option in a future update. </li><li> Users who have opted into Gemini will be redirected to the chatbot's window, while others… [+2086 chars]"
+            "author": "CBC News",
+            "title": "Women's sports are having a moment, but sexism is still holding back success | CBC News",
+            "description": "As women's sports are experiencing a meteoric rise in popularity, breaking attendance and viewership records, a new report highlights how sexism still holds back women's professional sports — and investment decision-making.",
+            "url": "http://www.cbc.ca/news/canada/womens-sports-sexualizing-athletes-1.7180765",
+            "urlToImage": "https://i.cbc.ca/1.7180780.1713790614!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/wnba-draft-basketball.jpg",
+            "publishedAt": "2024-05-10T08:07:13.8103079Z",
+            "content": "\"Start doing it to me and we'll get along just fine.\"\r\nIt was a cringe-worthy moment right at the start of Caitlin Clark's first news conference with the Indiana Fever: when it was his turn to ask a … [+7492 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Windows Central"
+                "id": "cbc-news",
+                "name": "CBC News"
             },
-            "author": "kevinokemwa@outlook.com (Kevin Okemwa)",
-            "title": "Reports indicate that Microsoft may lift the freeze on specific employee salaries while emphasizing 'more' accountability for top executives",
-            "description": "A new report indicates Microsoft plans to reinstate salary raises for its full-time staff after implementing a freeze last year due to tough economic times.",
-            "url": "https://www.windowscentral.com/microsoft/reports-indicate-that-microsoft-may-lift-the-freeze-on-specific-employee-salaries-while-emphasizing-more-accountability-for-top-executives",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gABgevi7vtqEnNLUgUxY9V-1200-80.jpg",
-            "publishedAt": "2024-05-11T00:22:16Z",
-            "content": "What you need to know\r\n<ul><li>Microsoft could potentially end its salary freeze for some employees.</li><li>The Redmond giant stopped raising salaries for full-time staff last year due to tough econ… [+3002 chars]"
+            "author": "CBC News",
+            "title": "Toronto awarded WNBA expansion team to begin play in 2026 | CBC Sports",
+            "description": "A group headed by Toronto billionaire Larry Tanenbaum has been granted an expansion franchise with the WNBA, CBC Sports has learned.",
+            "url": "http://www.cbc.ca/sports/basketball/wnba-toronto-awarded-expansion-team-1.7198595",
+            "urlToImage": "https://i.cbc.ca/1.6845232.1684367036!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/wnba-toronto.jpg",
+            "publishedAt": "2024-05-10T08:07:12.5293762Z",
+            "content": "Women's professional basketball is coming to Toronto. \r\nCBC Sports has learned that Kilmer Sports Inc., headed by Toronto billionaire Larry Tanenbaum, has been granted an expansion franchise with the… [+2121 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Korben.info"
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
             },
-            "author": "Korben",
-            "title": "Submariner – Le meilleur client Subsonic dispo sous Mac !",
-            "description": "Submariner est une excellente application native pour Mac qui permet de diffuser votre musique et vos podcasts hébergés sur un serveur Subsonic. Avec de nombreuses fonctionnalités avancées, elle offre une expérience d'écoute optimale, compatible avec les dern…",
-            "url": "https://korben.info/submariner-client-subsonic-mac-musique-podcast-autoheberges.html",
-            "urlToImage": "https://korben.info/app/uploads/2024/03/manu23_submariner_yellow_submarine_macos_style_087053f5-766f-4c7d-b2a0-81e16d49d851.webp",
-            "publishedAt": "2024-05-11T07:00:00Z",
-            "content": "Je vous ai déjà parlé à plusieurs reprises de Subsonic, un logiciel qui permet de monter sur votre serveur un clone de Spotify / Deezer / Apple Music… Et évidemment, qui dit serveur, dit client !\r\nEt… [+2078 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theregister.com"
-            },
-            "author": "Thomas Claburn",
-            "title": "OpenAI insists it's not launching a search engine nor GPT-5 on Monday",
-            "description": "Sheesh, you just can't trust anything on the internet, huh?\nOpenAI, the maker of many chatbots and taker of much Microsoft money, denies it's planning to unveil a web search engine on Monday.…",
-            "url": "https://www.theregister.com/2024/05/11/openai_product_search_monday/",
-            "urlToImage": "https://regmedia.co.uk/2024/05/10/openai_shutterstock.jpg",
-            "publishedAt": "2024-05-11T00:11:12Z",
-            "content": "OpenAI, the maker of many chatbots and taker of much Microsoft money, denies it's planning to unveil a web search engine on Monday.\r\n\"Despite reports, OpenAI isnt launching a search product or GPT-5 … [+3734 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": "William Hughes",
-            "title": "Damn, there are lots of shows getting the axe today",
-            "description": "You ever have one of those days where all you write about is TV shows getting the axe? We’re having one of those days: Hot on the heels of Max canceling its well-loved animated sci-fi series Scavengers Reign, and Fox pulling the plug on Lisa Kudrow’s animated…",
-            "url": "https://www.avclub.com/other-black-girl-constellation-not-dead-yet-canceled-1851470892",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/077451aa243f2a8c649a0fe96999a782.jpg",
-            "publishedAt": "2024-05-11T00:55:00Z",
-            "content": "You ever have one of those days where all you write about is TV shows getting the axe? Were having one of those days: Hot on the heels of Max canceling its well-loved animated sci-fi series Scavenger… [+2268 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Caschys Blog"
-            },
-            "author": "caschy",
-            "title": "Apple: Vereinbarung mit OpenAI soll kurz bevorstehen",
-            "description": "Apple steht laut dem US-Medium Bloomberg kurz vor einer Vereinbarung mit OpenAI, um die Technologie des Unternehmens auf dem iPhone zu integrieren. Dies sei Teil einer Strategie von Apple, Künstliche-Intelligenz-Funktionen auf seinen Geräten anzubieten. Die V…",
-            "url": "https://stadt-bremerhaven.de/apple-vereinbarung-mit-openai-soll-kurz-bevorstehen/",
-            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2021/01/OpenAI-Logo.jpg",
-            "publishedAt": "2024-05-11T07:00:52Z",
-            "content": "OpenAI – Logo des Unternehmens\r\nApple steht laut dem US-Medium Bloomberg kurz vor einer Vereinbarung mit OpenAI, um die Technologie des Unternehmens auf dem iPhone zu integrieren. Dies sei Teil einer… [+1006 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frandroid"
-            },
-            "author": "Edouard le Ricque",
-            "title": "ChatGPT dans iOS 18, Apple proche de conclure un accord avec OpenAI",
-            "description": "C'est le grand chamboulement. Après avoir été en discussion avec Google pour intégrer son chatbot Gemini dans la prochaine version d'iOS, Apple se tournerait finalement vers son concurrent direct, OpenAI, et son très connu ChatGPT.",
-            "url": "https://www.frandroid.com/marques/apple/2017806_chatgpt-dans-ios-18-apple-proche-de-conclure-un-accord-avec-openai",
-            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/05/pxl-20240511-065728099portrait-scaled.jpg",
-            "publishedAt": "2024-05-11T07:03:01Z",
-            "content": "C'est le grand chamboulement. Après avoir été en discussion avec Google pour intégrer son chatbot Gemini dans la prochaine version d'iOS, Apple se tournerait finalement vers son concurrent direct, Op… [+2291 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frandroid"
-            },
-            "author": "Cassim Montilla",
-            "title": "Apple s’excuse, nouveau WhatsApp et le Xbox Store sur iPhone – Tech’spresso",
-            "description": "Vous n’avez pas eu le temps de suivre l’actualité hier ? Voici ce qui a marqué le vendredi 10 mai : WhatsApp dévoile son nouveau design, Xbox prépare son store sur mobile et Apple s'excuse. Pour ne manquer aucune actualité, pensez à vous inscrire à la newslet…",
-            "url": "https://www.frandroid.com/actualites-generales/2017616_apple-sexcuse-nouveau-whatsapp-et-le-xbox-store-sur-iphone-techspresso",
-            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/09/2030-status-mother-nature-apple-0-35-screenshot.jpg",
-            "publishedAt": "2024-05-11T06:00:48Z",
-            "content": "Votre newsletter personnalisée\r\nC'est enregistré ! Surveillez votre boîte aux lettres, vous allez entendre parler de nous !\r\nRecevez le\r\n meilleur de l'actu\r\nLes données transmises par le biais de ce… [+927 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slickdeals.net"
-            },
-            "author": "iconian",
-            "title": "UCOMX 15W Magnetic & Foldable Nano 3 in 1 Wireless Charger for Apple Devices $20 + Free Shipping",
-            "description": "LILIMISS STORE via Amazon has UCOMX 15W Magnetic & Foldable Nano 3 in 1 Wireless Charger for Apple Devices for 49.99 - $5 when you clip the coupon on the product page - 50% when you redeem the ...",
-            "url": "https://slickdeals.net/f/17485425-ucomx-15w-magnetic-foldable-nano-3-in-1-wireless-charger-for-apple-devices-20-free-shipping",
-            "urlToImage": "https://static.slickdealscdn.com/attachment/9/5/3/2/3/15450204.attach",
-            "publishedAt": "2024-05-11T02:13:32Z",
-            "content": "deal[amazon.com]$20 + free s/h when you clip $5 coupon and a 50% promo on the product page\r\nI believe it comes with a 30w charger, but 15w is max per port"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "01net.com"
-            },
-            "author": "Mickaël Bazoge",
-            "title": "Siri : une « greffe de cerveau » IA pour éviter la ringardisation",
-            "description": "Siri devrait être un des services qui profitera le plus de la « stratégie IA » qu'Apple présentera durant sa conférence des développeurs (WWDC). L'assistant virtuel, qui traine sa misère depuis des années, pourrait profiter d'une « greffe de cerveau » !",
-            "url": "https://www.01net.com/actualites/siri-une-greffe-de-cerveau-ia-pour-eviter-la-ringardisation.html",
-            "urlToImage": "https://www.01net.com/app/uploads/2024/05/Siri-Apple.jpg",
-            "publishedAt": "2024-05-11T06:58:47Z",
-            "content": "Siri devrait être un des services qui profitera le plus de la « stratégie IA » qu’Apple présentera durant sa conférence des développeurs (WWDC). L’assistant virtuel, qui traine sa misère depuis des a… [+3255 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GSMArena.com"
-            },
-            "author": "Vlad",
-            "title": "iPhone 16 Pro will have a 20% brighter screen, rumor says",
-            "description": "According to a new rumor from China, posted on Weibo by user Instant Digital, the iPhone 16 Pro coming later this year will have a display that will be 20% brighter than its predecessor's.\n\nBut we're not talking peak HDR brightness - instead, this is the typi…",
-            "url": "https://www.gsmarena.com/iphone_16_pro_will_have_a_20_brighter_screen_rumor_says-news-62820.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/05/iphone-16-pro-brighter-display-rumor/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2024-05-11T00:29:02Z",
-            "content": "According to a new rumor from China, posted on Weibo by user Instant Digital, the iPhone 16 Pro coming later this year will have a display that will be 20% brighter than its predecessor's.\r\nBut we're… [+1513 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smartworld.it"
-            },
-            "author": "Antonio Lepore",
-            "title": "Apple in trattativa con OpenAI per portare ChatGPT su iOS 18",
-            "description": "Secondo le ultime indiscrezioni, Apple ed OpenAI starebbe cercando un accordo per portare le funzionalità di ChatGPT sul futuro iOS 18.\r\nL'articolo Apple in trattativa con OpenAI per portare ChatGPT su iOS 18 sembra essere il primo su Smartworld.",
-            "url": "https://www.smartworld.it/news/apple-openai-chatgpt-ios-18.html",
-            "urlToImage": "https://www.smartworld.it/images/2024/05/06/apple-final---2_1200x675.png",
-            "publishedAt": "2024-05-11T06:34:00Z",
-            "content": "Apple starebbe chiudendo un accordo con OpenAI per implementare parte della tecnologia dell'azienda IA sull'iPhone di quest'anno. In particolare, l'obiettivo di Cupertino sarebbe quello di offrire su… [+1496 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smartworld.it"
-            },
-            "author": "Antonio Lepore",
-            "title": "Apple punta a migliorare il display di iPhone 16 Pro: sarà più luminoso del 20%",
-            "description": "Apple sta lavorando alacremente sui prossimi iPhone 16. In particolare, lo schermo di iPhone 16 Pro dovrebbe essere più luminoso del predecessore.\r\nL'articolo Apple punta a migliorare il display di iPhone 16 Pro: sarà più luminoso del 20% sembra essere il pri…",
-            "url": "https://www.smartworld.it/news/apple-display-iphone-16-pro-luminosita.html",
-            "urlToImage": "https://www.smartworld.it/images/2024/03/26/iphone-16-render_1200x675.jpg",
-            "publishedAt": "2024-05-11T07:14:00Z",
-            "content": "Qualche giorno fa Apple ha svelato i suoi nuovi iPad Pro, caratterizzati da un display definito da Cupertino come \"il più avanzato del mondo\". Sembrerebbe, però, che gli sforzi della società non si s… [+1699 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "La Vanguardia"
-            },
-            "author": "Fran Besora",
-            "title": "El próximo 21 de mayo habrá un nuevo reto de actividad para celebrar el Día de la Meditación",
-            "description": "En unos días, los usuarios de un Apple Watch nos enfrentaremos a un nuevo desafío de actividad. Pero en esta ocasión, no será necesario realizar ejercicio físico para completarlo. En lugar de eso, se nos pedirá meditar, ya que el próximo 21 de mayo es el Día …",
-            "url": "https://www.lavanguardia.com/andro4all/apple/el-proximo-21-de-mayo-habra-un-nuevo-reto-de-actividad-para-celebrar-el-dia-de-la-meditacion",
-            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/05/reto-mindfulnes.jpg?width=1200",
-            "publishedAt": "2024-05-11T07:31:26Z",
-            "content": "Nuevo reto de actividad por el Día de la Meditación\r\nEn unos días, los usuarios de un Apple Watch nos enfrentaremos a un nuevo desafío de actividad. Pero en esta ocasión, no será necesario realizar e… [+1834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nextpit.de"
-            },
-            "author": "Edwin Kee",
-            "title": "Knapp bei Kasse? Diese iOS- und Android-Apps sind kurze Zeit kostenlos",
-            "description": "Eine weitere Woche, und wir haben Entwickler, die ihre Apps nur für eine begrenzte Zeit kostenlos im Google Play Store und im Apple App Store anbieten.",
-            "url": "https://www.nextpit.de/kostenlose-apps-2024-02-19",
-            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/NextPit_Apps.jpg",
-            "publishedAt": "2024-05-11T08:00:00Z",
-            "content": "Das Wochenende steht wieder vor der Tür und Ihr werdet Euch wahrscheinlich auf ein gemütliches Plätzchen setzen und mit Eurem Handy das Wochenende verbringen. Da Ihr so vorgeht, solltet Ihr Euch anse… [+5585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DIE WELT"
-            },
-            "author": "Nando Sommerfeldt, Holger Zschäpitz",
-            "title": "Die Favoriten des Dividenden-Kassierers und seine besten ETFs",
-            "description": "In dieser Samstagsfolge von “Alles auf Aktien” reden wir über Unternehmen, die besonders an ihre Aktionäre denken. Die ihnen Kapital zurückgeben – auf zweierlei Weise. Unser Gast Christian W. Röhl kennt sich bestens aus mit Dividenden und Aktienrückkäufen.",
-            "url": "https://www.welt.de/podcasts/alles-auf-aktien/article251452118/Alles-auf-Aktien-Munich-Re-Alphabet-Microsoft-Co-die-Favoriten-des-Dividenden-Kassierers.html",
-            "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile246304624/0521353177-ci16x9-w1200/Zschae-Nando-DWO-Podcast-Teaser-AllesAufAktien-mit-2zu3-zschaepitz-sommerfeld.jpg",
-            "publishedAt": "2024-05-11T02:58:04Z",
-            "content": "Er kennt und schätzt die Aristokraten, identifiziert die neue Generation der generösen Ausschütter und spricht mit uns über die Europa-USA-Kluft. Als Experte und AAA-Stammgast verrät er uns die beste… [+661 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DIE WELT"
-            },
-            "author": "Sascha Lehnartz",
-            "title": "Herrentag in Moskau",
-            "description": "Zu den Traditionen, die aus der DDR in die Bundesrepublik hinübergerettet werden konnten, gehört die hingebungsvolle Pflege des „Herrentags“. Um ebendiesen, eine zünftige Militärparade und Studenten, die politischen Unsinn brüllen, geht es im satirischen Woch…",
-            "url": "https://www.welt.de/podcasts/article251452194/Satirischer-Wochenrueckblick-Herrentag-in-Moskau.html",
-            "urlToImage": "https://img.welt.de/img/podcasts/mobile248478692/7601351337-ci16x9-w1200/DWO-Teaser-Podcast-Das-bringt-der-Tag-Lehnartz.jpg",
-            "publishedAt": "2024-05-11T02:57:38Z",
-            "content": "Hier können Sie die Episode von Das bringt der Tag mit Sascha Lehnartz direkt hören:\r\nAbonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts, Amazon Music oder direkt per RSS-Feed.\r\nDas… [+842 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Numerama"
-            },
-            "author": "Nicolas Lellouche",
-            "title": "Apple pourrait remplacer Siri par ChatGPT dans iOS 18",
-            "description": "Selon Bloomberg, Apple aurait trouvé un accord avec OpenAI pour utiliser ChatGPT sous licence dans le prochain iOS 18. La cohabitation entre Siri, ChatGPT et éventuellement Google Gemini reste à définir. La conférence WWDC est dans moins d'un mois, mais les p…",
-            "url": "https://www.numerama.com/tech/1741782-apple-pourrait-remplacer-siri-par-chatgpt-dans-ios-18.html",
-            "urlToImage": "https://www.numerama.com/wp-content/uploads/2023/05/chatgpt-1.jpg",
-            "publishedAt": "2024-05-11T04:20:00Z",
-            "content": "Selon Bloomberg, Apple aurait trouvé un accord avec OpenAI pour utiliser ChatGPT sous licence dans le prochain iOS 18. La cohabitation entre Siri, ChatGPT et éventuellement Google Gemini reste à défi… [+3513 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Noah Hunter",
-            "title": "The Best Times to Buy a New iPhone in 2024",
-            "description": "Should you buy a new iPhone in the summer or wait?",
-            "url": "https://www.ign.com/articles/the-best-time-to-buy-an-iphone",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/05/08/best-times-to-buy-an-iphone-1715211599448.png?width=1280",
-            "publishedAt": "2024-05-11T02:10:00Z",
-            "content": "The Apple iPhone is one of the most influential pieces of technology ever. Since its first model in 2007, Apple has released a new iPhone almost every year. While the features of each new model large… [+4932 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Jordan Sirani",
-            "title": "How to Watch Demon Slayer: Season 4 – Release Schedule and Streaming",
-            "description": "We have all of the details about where and when you can watch the new season of Demon Slayer.",
-            "url": "https://www.ign.com/articles/how-to-watch-demon-slayer-season-4-release-date",
-            "urlToImage": "https://assets-prd.ignimgs.com/2024/04/08/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-official-trailer-1-21-screenshot-1712618728952.png?width=1280",
-            "publishedAt": "2024-05-11T00:15:00Z",
-            "content": "Nearly a year after the conclusion of Season 3, Demon Slayer returns for its fourth season in May. This year, the anime adapts the manga's penultimate arc, Hashira Training. \r\nIf you're wondering wha… [+2822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Ben Schoon",
-            "title": "Apple reportedly still in talks to use Gemini for iPhone AI features as OpenAI deal looms",
-            "description": "Apple is expected to be using a third party to power some upcoming AI features on the iPhone, with Google Gemini reportedly being a contender. But, apparently, that deal is still not closed, but one with OpenAI is nearly ready. \n\n\n\n more…",
-            "url": "http://9to5google.com/2024/05/10/google-apple-gemini-discussions-report/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-ai-gemini-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-05-11T02:04:40Z",
-            "content": "Apple is expected to be using a third party to power some upcoming AI features on the iPhone, with Google Gemini reportedly being a contender. But, apparently, that deal is still not closed, but one … [+1106 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "finance.yahoo.com",
-            "title": "How Should a Beginner Invest in Stocks? Try This Index Fund",
-            "description": "Getting started as an investor may seem intimidating for one big reason. You often hear about particular stocks -- market stars of the moment -- that have soared. And you may think that to become a successful investor, you need to identify the star of tomorro…",
-            "url": "https://biztoc.com/x/7eee3ab70c725b94",
-            "urlToImage": "https://c.biztoc.com/p/7eee3ab70c725b94/s.webp",
-            "publishedAt": "2024-05-11T06:46:04Z",
-            "content": "Getting started as an investor may seem intimidating for one big reason. You often hear about particular stocks -- market stars of the moment -- that have soared. And you may think that to become a s… [+291 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "3dnews.ru"
-            },
-            "author": null,
-            "title": "Твердотельная память внутри смартфонов Huawei Pura 70 произведена китайской YMTC",
-            "description": "Когда на этой неделе у специалистов iFixit дошли руки до вскрытия смартфона Huawei Pura 70 Pro, достоверно судить о происхождении микросхемы NAND внутри нового смартфона китайской марки они судить не могли, просто предположив, что к её выпуску причастна дочер…",
-            "url": "https://3dnews.ru/1104653/tverdotelnaya-pamyat-vnutri-smartfonov-huawei-pura-70-proizvedena-kitayskoy-ymtc",
-            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/11/1104653/pura_70.jpg",
-            "publishedAt": "2024-05-11T06:24:00Z",
-            "content": "iFixit Huawei Pura 70 Pro, NAND , , HiSilicon. TechInsights , YMTC.\r\n: Huawei Technologies\r\n, 3D NAND . , Apple YMTC iPhone, .\r\nBloombergTechInsights, Huawei Pura 70 3D NAND YMTC, 2023 , . , 3D NAND … [+191 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tinhte.vn"
-            },
-            "author": "no-reply@tinhte.vn (Didu), Didu",
-            "title": "Apple dự định dùng chip M2 Ultra cho máy chủ AI",
-            "description": "Liên quan tới dự án phát triển AI, Apple có thể sẽ trang bị con chip M2 Ultra mạnh mẽ của họ cho các trung tâm dữ liệu sử dụng trên máy chủ xử lý AI, trước khi nâng cấp lên các thế hệ mới hơn như M4. Ban đầu…",
-            "url": "https://tinhte.vn/thread/apple-du-dinh-dung-chip-m2-ultra-cho-may-chu-ai.3785920/",
-            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/05/8330630_Apple-WWDC23-M2-Ultra-chip-230605-big.jpg.large-2x.jpg",
-            "publishedAt": "2024-05-11T03:33:13Z",
-            "content": "Liên quan ti d án phát trin AI, Apple có th s trang b con chip M2 Ultra mnh m ca h cho các trung tâm d liu s dng trên máy ch x lý AI, trc khi nâng cp lên các th h mi hn nh M4. Ban u, Apple d nh phát … [+530 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Neowin"
-            },
-            "author": "Aditya Tiwari",
-            "title": "Concept Apple Watch X brings FaceTime camera and Touch ID to the table",
-            "description": "A new Apple Watch X concept imagines how the rumored 10th-anniversary version of the Apple Watch lineup might look. The concept includes features like Touch ID, FaceTime camera, and more. Read more...",
-            "url": "https://www.neowin.net/news/concept-apple-watch-x-brings-facetime-camera-and-touch-id-to-the-table/",
-            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715381326_apple_watch_x_concept_1_story.jpg",
-            "publishedAt": "2024-05-11T03:14:02Z",
-            "content": "The rumored Apple Watch X is believed to be the biggest upgrade since the smartwatch lineup was introduced for the first time in 2014. In other words, the Apple Watch is about to complete a decade of… [+1981 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Netafull.net"
-            },
-            "author": "コグレマサト",
-            "title": "【Mac整備済製品】MacBook Pro・iMac・Mac Studio・ディスプレイ【2024年5月11日】",
-            "description": "Apple公式サイトの「Mac整備済製品」の情報です。 Appleの整備済み品は問題があって返品された商品などを整備し、テスト後認定されたものです。1年間の特別保証が付いています。 最新の在庫情報は「Apple整備済製品...\n投稿 【Mac整備済製品】MacBook Pro・iMac・Mac Studio・ディスプレイ【2024年5月11日】 は ネタフル に最初に表示されました。",
-            "url": "https://netafull.net/apple-refurbished/0150246.html",
-            "urlToImage": "https://netafull.net/wp-content/uploads/2022/12/apple-refurbished-mac.jpg",
-            "publishedAt": "2024-05-11T00:00:00Z",
-            "content": "AppleMac\r\nApple1\r\nApple\r\n24iMac [] 8CPU7GPUApple M1 – 144,800\r\n24iMac [] 8CPU8GPUApple M1Ethernet – 165,800\r\n24iMac [] 8CPU8GPUApple M1Ethernet – 165,800\r\n24iMac [] 8CPU8GPUApple M1Ethernet – 165,800… [+5837 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tinhte.vn"
-            },
-            "author": "no-reply@tinhte.vn (ND Minh Đức), ND Minh Đức",
-            "title": "iOS 18: Apple đang chốt deal với OpenAI để mang ChatGPT lên iPhone",
-            "description": "Thông tin từ anh Mark Gurman bên Bloomberg khẳng định rằng Apple đang hoàn tất thỏa thuận với OpenAI để mang công nghệ Gen AI lên iPhone trong năm nay. Nguồn tin này nói rằng với thỏa thuận này, Apple sẽ cung cấp cho người dùng một con \"chatbot phổ…",
-            "url": "https://tinhte.vn/thread/ios-18-apple-dang-chot-deal-voi-openai-de-mang-chatgpt-len-iphone.3786212/",
-            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2024/05/8331564_cover-chatgpt-ios-1.jpg",
-            "publishedAt": "2024-05-11T05:40:46Z",
-            "content": "Thông tin t anh Mark Gurman bên Bloomberg khng nh rng Apple ang hoàn tt tha thun vi OpenAI mang công ngh Gen AI lên iPhone trong nm nay. Ngun tin này nói rng vi tha thun này, Apple s cung cp cho ngi … [+1042 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Jotdown.es"
-            },
-            "author": "Ricardo Jonás G.",
-            "title": "Mala memoria: los peligros del pasado en internet",
-            "description": "Alicia Keys interpreta la intro de «If I Ain’t Got You» en un piano de color rojo intenso. Son unos arpegios descendentes y delicados que funcionan para entrar en el clima de la canción. Mientras sus dedos se mueven a través de las teclas, una cámararealiza u…",
-            "url": "https://www.jotdown.es/2024/05/mala-memoria-peligros-pasado-internet/",
-            "urlToImage": "https://www.jotdown.es/wp-content/uploads/2024/04/Alicia-Keys-en-la-actuacion-de-la-Superbowl.-Imagen-NFL.jpg",
-            "publishedAt": "2024-05-11T08:00:29Z",
-            "content": "Alicia Keys en la actuación de la Superbowl. Imagen: NFL.\r\nAlicia Keys interpreta la intro de «If I Aint Got You» en un piano de color rojo intenso. Son unos arpegios descendentes y delicados que fun… [+9409 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Spidersweb.pl"
-            },
-            "author": "Oliwier Nytko",
-            "title": "Jaki rysik Apple Pencil wybrać w 2024 roku? Są cztery modele i każdy jest inny",
-            "description": "Apple ma problem z ujednoliceniem i zmniejszeniem swojej oferty. Tylko teraz w sprzedaży są aż cztery różne rysiki Apple Pencil. Cztery. Który z nich powinieneś wybrać do swojego iPada? Pozwól, że cię przeprowadzę przez tę podróż.",
-            "url": "https://spidersweb.pl/2024/05/jaki-apple-pencil-wybrac-2024.html",
-            "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2024/05/apple-pencil-kompatybilnosc-ktory-wybrac.jpg",
-            "publishedAt": "2024-05-11T06:30:00Z",
-            "content": "Apple Pencil 1. generacji to tasza opcja dla uytkowników, którzy potrzebuj rysika do rysowania i notowania. Wykrywanie siy nacisku i niska cena to jego gówne zalety. Naley jednak wzi pod uwag niewygo… [+211 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Taisy0.com"
-            },
-            "author": "taisy0",
-            "title": "Apple、｢iOS 18｣への｢ChatGPT｣搭載に向けたOpenAIとの協議は合意間近か ｰ Googleとも引き続き協議中",
-            "description": "Appleは「iOS 18」へのAI機能の統合に向けAIチャット「ChatGPT」の開発元であるOpenAIと協議していると言われていますが、本日、Bloombergがその続報を報じています。 事情に詳しい複数の関係者によると、Appleは",
-            "url": "https://taisy0.com/2024/05/11/198183.html",
-            "urlToImage": "https://taisy0.com/wp-content/uploads/2023/06/chatgptlogo.jpg",
-            "publishedAt": "2024-05-11T02:15:44Z",
-            "content": "AppleiOS 18AIAIChatGPTOpenAIBloomberg\r\nAppleOpenAIiPhone\r\nAppleiOSiOS 18ChatGPTAppleGoogleAIGeminiiPhone"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Taisy0.com"
-            },
-            "author": "taisy0",
-            "title": "｢iOS 18｣の｢ボイスメモ｣と｢メモ｣アプリは文字起こし機能を搭載か",
-            "description": "立て続けに「iOS 18」や「macOS 15」の新機能に関する情報を報じているApple Insiderが、今度は「iOS 18」では「ボイスメモ」と「メモ」の両アプリに音声文字起こし機能が搭載されると報じています。 「ボイスメモ」と「メ",
-            "url": "https://taisy0.com/2024/05/11/198175.html",
-            "urlToImage": "https://taisy0.com/wp-content/uploads/2024/05/th_iOS-18-Title-Image.jpg",
-            "publishedAt": "2024-05-11T01:10:09Z",
-            "content": "iOS 18macOS 15Apple InsideriOS 18\r\nAI\r\niPadOS 18macOS 15\r\nApple Insider"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Taisy0.com"
-            },
-            "author": "taisy0",
-            "title": "｢iPhone｣の｢News｣ウィジェット、日本ではサービス終了に伴い提供終了",
-            "description": "iOSなどの不具合を報告しているSBAPPによると、「iPhone」から「ニュース (News)」ウィジェットが消えたことが分かりました。 実際、筆者の「iPhone 15 Pro (iOS 17.5 RC)」や「iPhone 13 min",
-            "url": "https://taisy0.com/2024/05/11/198185.html",
-            "urlToImage": "https://taisy0.com/wp-content/uploads/2020/05/applenewslogo.png",
-            "publishedAt": "2024-05-11T02:53:15Z",
-            "content": "iOSSBAPPiPhone (News)\r\niPhone 15 Pro (iOS 17.5 RC)iPhone 13 mini (iOS 17.4)News\r\nRedditApple News+iOSApple News+News\r\nSBAPPAppleApple News\r\nAppleNews Apple News App"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Macitynet.it"
-            },
-            "author": "Fabrizio Frattini",
-            "title": "A Cupertino la paura fa novanta, l’iPhone lo salva solo una Siri più intelligente",
-            "description": "Apple entrerà nel mondo dell'Intelligenza Artificiale per salvare iPhone e iOS affidando a Siri il compito più importante. Come, ce lo spiega il New York Times che però ammonisce: «Il compito non sarà facile»\n- su macitynet.it A Cupertino la paura fa novanta,…",
-            "url": "https://www.macitynet.it/siri-intelligenza-artificiale-ios-18/",
-            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2021/03/siri-ios-15.jpg",
-            "publishedAt": "2024-05-11T07:14:24Z",
-            "content": "La paura di perdere tutto. Inclusa la leadership di iPhone e le decine di miliardi di dollari che derivano dal mercato delle App. Ecco che cosa sta spingendo Apple a giocarsi ogni carta possibile per… [+6210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Macitynet.it"
-            },
-            "author": "Pubblicità",
-            "title": "Offerte Amazon WE 11 maggio fino al 60% su Apple, Garmin, Lexar, Intex, Sony, ProCase, Meross",
-            "description": "In sconto sportwatch, memorie, caricatori, supporti, cuffie, speaker, luci e molto altro\n- su macitynet.it Offerte Amazon WE 11 maggio fino al 60% su Apple, Garmin, Lexar, Intex, Sony, ProCase, Meross",
-            "url": "https://www.macitynet.it/offerte-amazon-11-maggio-2024/",
-            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2018/04/amazonlista8.jpg",
-            "publishedAt": "2024-05-11T07:59:49Z",
-            "content": "Quelle che trovate elencate in questa pagina sono le offerte su Amazon valide nel momento in cui scriviamo.\r\nSono ancora valide queste offerte:\r\n<ul><li>Apple, TCL, DJI, Anker, Ezviz, Philips, TP-Lin… [+8349 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sapo.pt"
-            },
-            "author": "Vítor M.",
-            "title": "Há um render do Apple Watch X que é… absolutamente absurdo",
-            "description": "Estamos já a pouco mais de 4 meses da apresentação do Apple Watch de 2024. Bom, há muitos rumores a apontar para um novo nome, dizem que se chamará Apple Watch X. Depois a...",
-            "url": "https://pplware.sapo.pt/apple/ha-um-render-do-apple-watch-x-que-e-absolutamente-absurdo/",
-            "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2024/05/apple_watch_x_camara00.jpg",
-            "publishedAt": "2024-05-11T08:00:09Z",
-            "content": "Estamos já a pouco mais de 4 meses da apresentação do Apple Watch de 2024. Bom, há muitos rumores a apontar para um novo nome, dizem que se chamará Apple Watch X. Depois a imaginação e criatividades … [+2594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Courrier International"
-            },
-            "author": null,
-            "title": "Samuel Smith, seigneur féodal de la bière",
-            "description": "La brasserie vieille de trois siècles, dirigée par un descendant direct de son fondateur, impose sa vision désuète du monde aux gérants de ses pubs, à ses clients et aux habitants de Tadcaster, son fief du nord de l’Angleterre. “The Sunday Times” a exploré ce…",
-            "url": "https://www.courrierinternational.com/article/enquete-samuel-smith-seigneur-feodal-de-la-biere",
-            "urlToImage": "https://focus.courrierinternational.com/2024/04/25/29/0/3000/2000/1200/630/60/0/cdbf77d_1714050064626-abc24a00-035-web.jpg",
-            "publishedAt": "2024-05-11T06:55:58Z",
-            "content": "Quand je suis arrivé au Angel &amp; White Horse de Tadcaster, ce pub qui était autrefois le porte-étendard de Humphrey Smith, roi des brasseries du nord du Yorkshire, il était trop tard pour commande… [+3992 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Macmagazine.com.br"
-            },
-            "author": "Eduardo Marques",
-            "title": "Apple e OpenAI estariam finalizando acordo para levar ChatGPT ao iPhone",
-            "description": "Depois de negociar com o Google e com a OpenAI para utilizar as soluções de inteligência artificial generativa das empresas (Gemini e ChatGPT, respectivamente) no iPhone, aparentemente a OpenAI foi a que saiu como vencedora disputa. Pelo menos é isso que Mark…",
-            "url": "https://macmagazine.com.br/post/2024/05/10/apple-e-openai-estariam-finalizando-acordo-para-levar-chatgpt-ao-iphone/",
-            "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2024/05/10-openia-chatgpt-1260x840.jpg",
-            "publishedAt": "2024-05-11T02:12:32Z",
-            "content": "Depois de negociar com o Google e com a OpenAI para utilizar as soluções de inteligência artificial generativa das empresas (Gemini e ChatGPT, respectivamente) no iPhone, aparentemente a OpenAI foi a… [+1411 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Macmagazine.com.br"
-            },
-            "author": "Rafael Fischmann, MacMagazine.com.br",
-            "title": "MacMagazine no Ar #579: novos iPads Air e Pro, chip M4, Apple Pencil Pro, Magic Keyboard e muito mais!",
-            "description": "E hoje é dia de MacMagazine no Ar!  Esta é a 579ª edição do nosso podcast. Participantes do dia Eduardo Marques Breno Masi Jason Baroni Rafael Fischmann A edição é obra do Eduardo Garcia . Pauta do episódio 00:00:00 Introdução 00:06:24 “Let loose”: como aco…",
-            "url": "https://macmagazine.com.br/post/2024/05/10/macmagazine-no-ar-579-novos-ipads-air-e-pro-chip-m4-apple-pencil-pro-magic-keyboard-e-muito-mais/",
-            "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2024/05/10-podcast-1260x709.jpg",
-            "publishedAt": "2024-05-11T02:34:26Z",
-            "content": "E hoje é dia de MacMagazine no Ar! Esta é a 579ª edição do nosso podcast.\r\nA edição é obra do Eduardo Garcia [@edugarcya].\r\nNosso podcast está disponível no Apple Podcasts, no Spotify, no Amazon Musi… [+202 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Iphones.ru"
-            },
-            "author": "Артём Баусов",
-            "title": "Apple заключила соглашение с OpenAI о внедрении технологий ChatGPT в iPhone",
-            "description": "Apple заключила соглашение с OpenAI об использовании технологий стартапа на iPhone. Обе стороны ещё дорабатывают условия для пакта об использовании функций ChatGPT в iOS 18, сказали Bloomberg люди, которые попросили остаться анонимными. Apple также провела пе…",
-            "url": "https://www.iphones.ru/iNotes/apple-zaklyuchila-soglashenie-s-openai-o-vnedrenii-tehnologiy-chatgpt-v-iphone-05-11-2024",
-            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2024%2F05%2FIMG_3020-1.jpeg",
-            "publishedAt": "2024-05-11T07:31:29Z",
-            "content": "Apple OpenAI iPhone.\r\n ChatGPT iOS 18, Bloomberg , . Apple Google - Gemini. , .\r\n Apple, OpenAI Google .\r\n iOS 18, . ChatGPT . , . [Bloomberg]\r\n, AirPods Pro 2 USB-C Telegram-!"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacGeneration"
-            },
-            "author": "Stéphane Moussie",
-            "title": "Sortie de veille : écran OLED, puce M4… Des annonces vraiment historiques pour l’iPad ?",
-            "description": "Toutes les semaines, écoutez Sortie de veille, le podcast hebdomadaire de MacGeneration ! On débat de l'actualité Apple et tech des derniers jours en une quinzaine de minutes.\n\nÇa y est, Apple a fait mieux que l’iPod nano ! Le nouvel iPad Pro de 13\" bat un re…",
-            "url": "https://www.macg.co/podcasts/2024/05/sortie-de-veille-ecran-oled-puce-m4-des-annonces-vraiment-historiques-pour-lipad-143673",
-            "urlToImage": "https://files.staticmacg.com/macgupload/icon.png",
-            "publishedAt": "2024-05-11T06:00:56Z",
-            "content": "Toutes les semaines, écoutez Sortie de veille, le podcast hebdomadaire de MacGeneration ! On débat de l'actualité Apple et tech des derniers jours en une quinzaine de minutes.\r\nÇa y est, Apple a fait… [+925 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Expansion.com"
-            },
-            "author": "expansion.com",
-            "title": "Apple, Google, Samsung y Huawei: semana de lanzamientos en el mercado 'tech'",
-            "description": "Semana movida en el mercado tecnológico. Apple, Google, Huawei o Samsung han sido algunas de las grandes protagonistas con los lanzamientos y presentaciones de sus nuevos...",
-            "url": "https://www.expansion.com/tecnologia/2024/05/11/663cb454e5fdeaab648b459a.html",
-            "urlToImage": "https://phantom-expansion.unidadeditorial.es/f0ea07f897d222e7a19b296496d969d3/crop/91x0/1036x630/f/webp/assets/multimedia/imagenes/2024/05/07/17150934761984.png",
-            "publishedAt": "2024-05-11T07:47:10Z",
-            "content": "Las principales firmas de tecnologían presentaron esta semana novedades en dispositivos. Semana movida en el mercado tecnológico. Apple, Google, Huawei o Samsung han sido algunas de las grandes prota… [+2764 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thenewslens.com"
-            },
-            "author": "中央通訊社",
-            "title": "哈瑪斯稱停火談判掌控權在以色列，川普批拜登警告停供武器「可恥」，聯合國大會143票挺巴勒斯坦建國",
-            "description": "聯合國大會決議10日以143票贊成、9票反對、25票棄權通過，認定巴勒斯坦符合『聯合國憲章』規定的聯合國會員國資格，應被接納為聯合國會員國。這次表決主要是象徵性，但以色列駐聯合國大使爾登仍表達憤怒，稱聯合國正在姑息「兇殘的獨裁者」。",
-            "url": "https://www.thenewslens.com/article/202562",
-            "urlToImage": "https://image1.thenewslens.com/2024/5/64tnf7deto4y38nutjrkeu627iepo6.jpg?fm=jpg&format=crop&h=630&q=70&w=1200",
-            "publishedAt": "2024-05-11T03:30:35Z",
-            "content": "942023Great Place to Work2023Sabrina\r\nXYZ00\r\nPhoto Credit: TNL Brand Studio\r\n50Sabrina20HOW to doWHY to do\r\nSabrina278456\r\nSabrinaI welcome you back\r\nSabrinaAbraham Harold MaslowHierarchy of Needs Th… [+381 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Livedoor.jp"
-            },
-            "author": "itsoku",
-            "title": "【悲報】Xperiaさん、2023年の国内売上40％減少…",
-            "description": "1:それでも動く名無し 警備員[Lv.27][苗]  2024/05/10(金) 22:30:50.22 ID:EJTF1rot0  >>IDCアナリストのInbeMasafumi氏によると、ソニーの日本での携帯電話販売は2023年に40%減少し、今年も同様に減少する可能性が高い。    >>アルファベット社のGoogleは国内で強力なプッ",
-            "url": "http://blog.livedoor.jp/itsoku/archives/61488741.html",
-            "urlToImage": "https://livedoor.blogimg.jp/itsoku/imgs/f/b/fba2babe-s.png",
-            "publishedAt": "2024-05-11T00:10:35Z",
-            "content": "1: [Lv.27][] 2024/05/10() 22:30:50.22 ID:EJTF1rot0\r\n &gt;&gt;IDCInbeMasafumi202340% \r\n&gt;&gt;Google \r\n4: [Lv.27][] 2024/05/10() 22:32:23.60 ID:EJTF1rot0\r\nhttps://www.bloomberg.com/news/newsletters/2… [+1316 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Zive.cz"
-            },
-            "author": "Jan Láska",
-            "title": "Češi mění telefon za nový v průměru po třech letech. Zůstávají věrni stejné značce",
-            "description": "S českým zákazníkem to mají výrobci smartphonů těžké. Lidé telefon používají poměrně dlouho a když už ho mění, většinou zůstávají věrni stejné značce. Vyplývá to z průzkumu, který mezi tisícovkou svých zákazníků provedl e-shop s elektronikou CZC.\n\nNaprostá vě…",
-            "url": "https://mobilmania.zive.cz/clanky/cesi-meni-telefon-za-novy-v-prumeru-po-trech-letech-zustavaji-verni-stejne-znacce/sc-3-a-1360049/default.aspx",
-            "urlToImage": "https://mobilmania.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=666502559",
-            "publishedAt": "2024-05-11T05:55:00Z",
-            "content": "S eským zákazníkem to mají výrobci smartphon tké. Lidé telefon pouívají pomrn dlouho a kdy u ho mní, vtinou zstávají vrni stejné znace. Vyplývá to z przkumu, který mezi tisícovkou svých zákazník prov… [+1463 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "author": "650 CKOM News Talk Sports",
+            "title": "Sask. teachers reject contract offer with 90% of votes opposed - 650 CKOM News Talk Sports",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LmNrb20uY29tLzIwMjQvMDUvMDkvOTEyMTI0L9IBAA?oc=5",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "publishedAt": "2024-05-10T01:36:00+00:00",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta, Michael Cohen",
+            "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+            "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+            "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T20:59:30Z",
+            "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "title": "New Micah Parsons Show ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "publishedAt": "2023-11-27T20:37:24.6381564Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
             },
             "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
+            "title": " Mikal Bridges Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
             "urlToImage": null,
-            "publishedAt": "1970-01-01T00:00:00Z",
-            "content": "[Removed]"
+            "publishedAt": "2023-11-27T20:37:24.3882176Z",
+            "content": "Nets star sits down with Taylor Rooks for exclusive convo."
         },
         {
             "source": {
-                "id": null,
-                "name": "CHIP Online Deutschland"
+                "id": "nrk",
+                "name": "NRK"
             },
-            "author": "Redaktion CHIP",
-            "title": "Apple bringt iMessages auf das nächste Level: KI-Unterstützung kommt mit iOS 18",
-            "description": "iOS 18 soll eine Revolution für iMessage mit sich bringen. Apple will mit Künstlicher Intelligenz die Art und Weise, wie wir Nachrichten erhalten, verbessern.",
-            "url": "https://www.chip.de/news/KI-Unterstuetzung-mit-iOS-18-Apple-bringt-iMessages-auf-das-naechste-Level_185268336.html",
-            "urlToImage": "https://www.chip.de/ii/1/2/6/9/1/7/6/3/9/Apple_KI_mit_iOS_18.-db4721e53dc190b7.jpg",
-            "publishedAt": "2024-05-11T04:19:00Z",
-            "content": "Die Funktion, Nachrichten mittels Künstlicher Intelligenz zu bündeln und übersichtlicher zu gestalten, soll den Nutzern helfen, wichtige Informationen schneller zu erfassen. Das Besondere: Diese Tech… [+436 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dealcatcher.com"
-            },
-            "author": null,
-            "title": "eBay - Apple Pencil (2nd Gen) iPad Stylus $74",
-            "description": "Save on this Apple Pencil (2nd Gen) iPad Stylus with no eBay coupon required. Click through to score it for $74. Free shipping.",
-            "url": "https://www.dealcatcher.com/tablets?offer=998231187",
-            "urlToImage": "https://app.dealcatcher.com/bigly/998231187-625.png",
-            "publishedAt": "2024-05-11T00:28:16Z",
-            "content": "Amazon Fire HD 10 Tablet, 10.1\", 1080p Full HD, 32 GB (2021 Release)"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Technews.tw"
-            },
-            "author": "Alan Chen",
-            "title": "強化 iPhone 16 AI 功能，Apple 即將與 OpneAI 簽約合作",
-            "description": "根據《彭博社》報導，Apple 和 OpenAI 的合作案預計將在下個月簽約，因此今年九月上市的 iPhone 16 和 iOS 18 將會具備 ChatGPT 帶來的優秀 AI 功能。 雖然先前 Apple 正與 Google 洽談 AI 雙邊合作，但昨日《彭博社》報導指出，Apple 與 Ope...",
-            "url": "https://ccc.technews.tw/2024/05/11/apple-is-about-to-sign-contract-with-open-ai-for-bringing-chatgpt-to-iphones/",
-            "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/05/31134338/IMG_8381-e1685511826957.jpg",
-            "publishedAt": "2024-05-11T07:05:20Z",
-            "content": "Apple  OpenAI  iPhone 16 iOS 18 ChatGPT AI \r\n Apple Google AI Apple OpenAI \r\n AI Apple Apple Google OpenAI OpenAI iPhone 16 iOS 18 ChatGPT \r\n ChatGPT iOS 18 iPhone 16 AI Siri Apple \r\n Apple OpenAI iO… [+14 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Zoomit.ir"
-            },
-            "author": "دیبا غفاری جهانی",
-            "title": "اپل با iOS 18 برای رقابت با گلکسی AI آماده می‌شود",
-            "description": "هوش مصنوعی در iOS 18 امکان تبدیل محتوای صوتی به متن و خلاصه‌نویسی محتواها را فراهم خواهد کرد.",
-            "url": "https://www.zoomit.ir/os/420883-ios-18-ai-audio-transcription/",
-            "urlToImage": "https://api2.zoomit.ir/media/iphone-15-pro-15-pro-max-ios-17-651d69cc193cce537e1bb259",
-            "publishedAt": "2024-05-11T06:15:00Z",
-            "content": ". (Audio Transcription) Apple Podcasts .\r\n iOS 18 .\r\n Notes Voice Memos . \r\n . .\r\n (WWDC) iOS 18 iPadOS 18 macOS ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Index.hu"
-            },
-            "author": "Gábor Zoltán",
-            "title": "Egy korszak véget ért: ikonikus készüléket kukázott az Apple",
-            "description": "Egy korszak véget ért: ikonikus készüléket kukázott az Apple - Teljesen eltűnt a kínálatból a népszerű termék.",
-            "url": "https://index.hu/techtud/2024/05/11/apple-ipad-home-gomb-megszunt/",
-            "urlToImage": "https://kep.cdn.index.hu/1/0/5626/56266/562667/56266733_4160387_afd7976d8f56cd34118569ae5cf4fe3b_wm.jpg",
-            "publishedAt": "2024-05-11T06:27:00Z",
-            "content": "Frissítette iPad kínálatát az Apple. Ahogy arról az Index is beszámolt, a vállalat teljesen újratervezett 11 és 13 hüvelykes iPad Prókat, valamint új, 11 és ezúttal már 13 hüvelykes méretben is kapha… [+987 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Index.hu"
-            },
-            "author": "Gábor Zoltán",
-            "title": "Botrány az Apple-nél: bocsánatot kellett kérniük, mert sokan felháborodtak egy reklámon",
-            "description": "Bocsánatot kellett kérnie az Apple-nek, mert sokan felháborodtak egy reklámon - Úgy érzik, túllőttek a célon.",
-            "url": "https://index.hu/techtud/2024/05/11/apple-ipad-pro-reklam-bocsanatkeres/",
-            "urlToImage": "https://kep.cdn.index.hu/1/0/5626/56268/562683/56268353_4160511_222bb443b50b8a164a65114f60e09ab7_wm.jpg",
-            "publishedAt": "2024-05-11T04:26:00Z",
-            "content": "Ahogy arról az Index is beszámolt, az Apple még kedden mutatta be a teljesen újratervezett, és minden korábbinál vékonyabb iPad prókat, miknek népszersítéséhez egy frappáns reklámfilmet is forgattak.… [+1369 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Geeky Gadgets"
-            },
-            "author": "Roland Hutchinson",
-            "title": "13 Awesome iPhone Shortcuts You Should Check Out",
-            "description": "In today’s fast-paced world, finding ways to increase efficiency and streamline daily tasks is essential for maintaining a balanced and productive lifestyle. iPhone shortcuts, a robust feature within iOS, provide a seamless method to automate routine activiti…",
-            "url": "https://www.geeky-gadgets.com/13-awesome-iphone-shortcuts/",
-            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2024/05/iPhone-Shortcuts.jpg",
-            "publishedAt": "2024-05-11T05:02:16Z",
-            "content": "In today’s fast-paced world, finding ways to increase efficiency and streamline daily tasks is essential for maintaining a balanced and productive lifestyle. iPhone shortcuts, a robust feature within… [+6426 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Huffingtonpost.es"
-            },
-            "author": "Juan De Codina",
-            "title": "Stephen King valora esta película española y el actor protagonista responde de la mejor manera posible",
-            "description": "<![CDATA[<p>El célebre escritor estadounidense, Stephen King, ha sorprendido a todos tras una reciente publicación en su perfil oficial de X, antes conocido como Twitter, en el que ha valorado 'La mesita del comedor', una película de comedia negra y terror es…",
-            "url": "https://www.huffingtonpost.es/virales/stephen-king-valora-pelicula-espanola-actor-protagonista-responde-mejor-manera-posible.html",
-            "urlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/05/11/stephen-king-signs-copies-of-his-book-rivival-at-barnes-noble-union-square-on-november-11-2014-in-new-york-city-local-caption-stephen-king.jpeg",
-            "publishedAt": "2024-05-11T07:48:04Z",
-            "content": "El célebre escritor estadounidense, Stephen King, ha sorprendido a todos tras una reciente publicación en su perfil oficial de X, antes conocido como Twitter, en el que ha valorado 'La mesita del com… [+1025 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smzdm.com"
-            },
-            "author": null,
-            "title": "百亿补贴：Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 7698元",
-            "description": "百亿补贴:Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 7698元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
-            "url": "https://www.smzdm.com/p/112265267/",
-            "urlToImage": "https://y.zdmimg.com/202310/18/652f789309edd9250.jpg_d250.jpg",
-            "publishedAt": "2024-05-11T04:41:29Z",
-            "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smzdm.com"
-            },
-            "author": null,
-            "title": "Apple 苹果 iPhone 15 Plus 5G手机 128GB 蓝色 5799元（需用券）",
-            "description": "京东自营此款目前活动售价6199.00元，下单，下单1件，实付低至5799.00元，近期好价。23年8月23日前开通的PLUS会员，自开通起一年内还可叠加50元全品类券（PLUS会员中心），单件低至5749.00元。叠加优惠券...",
-            "url": "https://www.smzdm.com/p/112239625/",
-            "urlToImage": "https://y.zdmimg.com/202309/13/6500b3a05ec636079.png_d250.jpg",
-            "publishedAt": "2024-05-11T01:25:22Z",
-            "content": "iPhone 15 Plus IP68 201g7.8mm\r\niPhone 15 Plus 6.7 OLED XDR 2796×1290460ppi2000100%DCI-P360HziPhone 15Plus A16 6 CPU5GPU 16 iPhone 14 Plus 263550%LightningUSB-C\r\niPhone 15 Plus 4800f1.62400120021200f2… [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Smzdm.com"
-            },
-            "author": null,
-            "title": "百亿补贴：Apple 苹果 iPhone 15 Plus 5G手机 128GB 5298元（需用券）",
-            "description": "玩家之道升级灵动岛设计，主摄升级4800万像素，A16芯片加持~拼多多此款目前活动128GB到手价5298元，256GB到手价6368元，近期好价，感兴趣的值友可以入手。",
-            "url": "https://www.smzdm.com/p/112264122/",
-            "urlToImage": "https://y.zdmimg.com/202309/13/6500b3a2b43f66569.png_d250.jpg",
-            "publishedAt": "2024-05-11T03:53:58Z",
-            "content": "iPhone 15 Plus IP68 201g7.8mm\r\niPhone 15 Plus 6.7 OLED XDR 2796×1290460ppi2000100%DCI-P360HziPhone 15Plus A16 6 CPU5GPU 16 iPhone 14 Plus 263550%LightningUSB-C\r\niPhone 15 Plus 4800f1.62400120021200f2… [+12 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pausaparafeminices.com"
-            },
-            "author": "Bruna Tavares",
-            "title": "Sweeps Harbors",
-            "description": "Articles Free Cent Slots No Down load As to why Play Online slots games The real deal Currency? #2 Cafe Casino Caesars Earn: Higher Slots Web site For Advantages, Bonuses, And you will Offers #6 Harbors Kingdom Ancient Gods: Greatest Acceptance Added bonus To…",
-            "url": "https://www.pausaparafeminices.com/ppf/sweeps-harbors/",
-            "urlToImage": null,
-            "publishedAt": "2024-05-11T07:02:27Z",
-            "content": "Not any other jackpot position have given out as much as Microgamings Super Moolah. Trigger the newest Mega Moolah Jackpot Controls at random to your reels, twist, and you might winnings certainly on… [+4912 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pausaparafeminices.com"
-            },
-            "author": "Bruna Tavares",
-            "title": "Ports As well as Comment, Private 20 No-deposit Added bonus",
-            "description": "Content Heed Secure Sites Lookup The Best a hundred Slot Recommendations Rewind Slot, Liberated to Enjoy, 4theplayer Most recent Local casino Information Even although you’ve never heard of NetEnt, you’ve obviously starred several of their renowned slot games…",
-            "url": "https://www.pausaparafeminices.com/ppf/ports-as-well-as-comment-private-20-no-deposit-added-bonus/",
-            "urlToImage": null,
-            "publishedAt": "2024-05-11T03:30:13Z",
-            "content": "Even although youve never heard of NetEnt, youve obviously starred several of their renowned slot games such while the Starburst and you can Gonzos Trip. This company has some of the greatest progres… [+5069 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Fighting"
-            },
-            "author": "Mike Heck",
-            "title": "UFC St. Louis preview show: Will Derrick Lewis deliver another emphatic knockout?",
-            "description": "MMA Fighting previews Saturday’s UFC St. Louis card headlined by Derrick Lewis vs. Rodrigo Nascimento.",
-            "url": "https://www.mmafighting.com/2024/5/10/24153532/ufc-st-louis-preview-show-will-derrick-lewis-deliver-another-emphatic-knockout",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/u-wwq6qdKUxZXVU4SlfJoo3-u0U=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25441752/UFC_ST_LOUIS_CLEAN.jpg",
-            "publishedAt": "2024-05-11T00:00:00Z",
-            "content": "UFC fan-favorite Derrick Lewis makes the main event walk once again this Saturday at UFC St. Louis, and does so against a surprising opponent in Rodrigo Nascimento. Will Lewis end the night with anot… [+716 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "3dnews.ru"
-            },
-            "author": null,
-            "title": "Apple обновит Siri: виртуальный помощник устарел и отстаёт от конкурентов",
-            "description": "Компания Apple осознала, что её виртуальный помощник Siri безнадёжно отстаёт от конкурентов, в частности от ChatGPT, разработанного OpenAI. Это привело к масштабной реорганизации внутри компании и срочным усилиям по модернизации Siri с использованием новейших…",
-            "url": "https://3dnews.ru/1104641/apple-obnovit-sirivirtualniy-pomoshchnik-ustarel-i-otstaet-ot-konkurentov",
-            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/11/1104641/angella-marina-AI-Kandinsky.jpg",
-            "publishedAt": "2024-05-11T02:51:00Z",
-            "content": "Apple , Siri , ChatGPT, OpenAI. Siri . Apple Siri, -.\r\n: Kandinsky\r\n- Apple , Siri . Siri . - ChatGPT OpenAI. , , , Siri .\r\n Siri, Apple (Tim Cook) AI . Apple , -, . Siri , . , Apple 10 .\r\n, Siri — A… [+191 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "3dnews.ru"
-            },
-            "author": null,
-            "title": "Появление функций ChatGPT в iOS 18 — вопрос почти решённый",
-            "description": "Сфера систем искусственного интеллекта с точки зрения практического его использования и реализации разного рода сотрудничества в последнее время полна событиями как более или менее явными, так и скрытыми. К последним Bloomberg относит почти достигнутую Apple …",
-            "url": "https://3dnews.ru/1104646/poyavlenie-funktsiy-chatgpt-v-ios-18-vopros-pochti-reshyonniy",
-            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/05/11/1104646/chat_gpt.jpg",
-            "publishedAt": "2024-05-11T03:56:00Z",
-            "content": ", . Bloomberg Apple - ChatGPT OpenAI iOS 18.\r\n: Unsplash, Solen Feyissa\r\nBloomberg , WWDC 2024, , . , Apple OpenAI , ChatGPT Apple iOS 18. , Apple Google - Gemini , .\r\n Bloomberg, , Apple OpenAI , WW… [+46 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bloomberg.co.jp"
-            },
-            "author": null,
-            "title": "アップル、iPhoneへのChatGPT搭載でオープンＡＩとの合意に近づく",
-            "description": "米アップルが対話型人工知能（ＡＩ）「ChatGPT」を開発した米オープンＡＩの技術をiPhoneに採用することで合意に近づいている。事情に詳しい複数の関係者が明らかにした。自社デバイスに人工知能（ＡＩ）機能を付加する広範な取り組みの一環だという。 非公開情報だとして、これら関係者が匿名で明らかにしたところでは...",
-            "url": "https://www.bloomberg.co.jp/news/articles/2024-05-11/SDARI7T0G1KW00",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iinD.pFO4n9o/v0/1200x800.jpg",
-            "publishedAt": "2024-05-11T02:54:47Z",
-            "content": "米\r\nアップルが対話型人工知能（ＡＩ）「ChatGPT」を開発した米\r\nオープンＡＩの技術をiPhoneに採用することで合意に近づいている。事情に詳しい複数の関係者が明らかにした。自社デバイスに人工知能（ＡＩ）機能を付加する広範な取り組みの一環だという。\r\n　　非公開情報だとして、これら関係者が匿名で明らかにしたところでは、両社はアップルの次期iPhone用基本ソフト（ＯＳ）「iOS 18」への… [+640 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applech2.com"
-            },
-            "author": "applech2",
-            "title": "MacのバックアップシステムTime Machineの進行情報や設定をメニューバーから確認できるユーティリティ「TimeMachineStatus」がリリース。",
-            "description": "MacのバックアップシステムTime Machineの進行情報や設定をメニューバーから確認できるユーティリティ「TimeMachineStatus」がリリースされています。詳細は以下から。 　Macではシステムのバック […]\nThe post MacのバックアップシステムTime Machineの進行情報や設定をメニューバーから確認できるユーティリティ「TimeMachineStatus」がリリース。 first appeared on AAPL Ch..",
-            "url": "https://applech2.com/archives/20240511-timemachinestatus-for-mac.html",
-            "urlToImage": "https://applech2.com/wp-content/uploads/2024/05/TimeMachineStatus-menubar-utility-for-Mac-features-Hero.jpg",
-            "publishedAt": "2024-05-11T06:20:37Z",
-            "content": "MacTime MachineTimeMachineStatus\r\nMacmacOSTime MachineTime MachineTimeMachineStatus\r\nThis app is a simple status bar app that shows the status of Time Machine backups. It is still in early developmen… [+317 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Computerwoche.de Live"
-            },
-            "author": "Michael Söldner, Anyron Copeman",
-            "title": "Der Teufel steckt im Detail: Honor Magic 6 Pro im Test",
-            "description": "Das Magic 6 Pro ist ein hervorragendes Kamerahandy mit vielen Stärken. Aber es gibt einige Punkte, die Sie berücksichtigen sollten, bevor Sie es Flaggschiff-Konkurrenten vorziehen.",
-            "url": "https://www.computerwoche.de/a/honor-magic-6-pro-im-test,3698710?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
-            "urlToImage": "https://images.computerwoche.de/bdb/3392601/640x360.jpg",
-            "publishedAt": "2024-05-11T03:47:00Z",
-            "content": "Foto: Dominik_Tomaszewski / Foundry\r\n<table>\r\n<tr><td>Pro\r\n<ul><li>Ausgezeichnete Haupt-, Tele- und Selfie-Kameras \r\n</li><li>Erstklassige Leistung Atemberaubender 120-Hertz-Bildschirm\r\n</li><li>Sich… [+20824 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ZDNet"
-            },
-            "author": "Artie Beaty",
-            "title": "Apple nears deal with OpenAI to power upcoming iPhone features with ChatGPT, says Bloomberg",
-            "description": "After also talking to Google about AI tech for iOS 18, Apple has closed in on an agreement with OpenAI.",
-            "url": "https://www.zdnet.com/article/apple-nears-deal-with-openai-to-power-upcoming-iphone-features-with-chatgpt-says-bloomberg/",
-            "urlToImage": "https://www.zdnet.com/a/img/resize/efb3ff0555ba23c31ad8a0766b11abbea77dc301/2023/12/08/ea43df10-7fc1-4170-a77e-512a965227e0/chatgpt-app-iphone.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-05-11T01:36:00Z",
-            "content": "Maria Diaz/ZDNET\r\nAfter talking with both OpenAI and Google about their AI models, Apple is nearing a deal to partner with OpenAI and leverage ChatGPT for upcoming iPhone features, expected to be unv… [+2079 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Overclockers.ru"
-            },
-            "author": "ddr22",
-            "title": "Apple Vision Pro 2 возможно, будет стоить от 1500 долларов",
-            "description": "Возможно, что следующая версия Apple Vision Pro, AR-гарнитуры от Apple, может иметь более низкую начальную цену, около 1500 долларов.",
-            "url": "https://overclockers.ru/blog/ddr77/show/157143/Apple-Vision-Pro-2-po-sluham-budet-stoit-ot-1500-dollarov",
-            "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/514602_O.png",
-            "publishedAt": "2024-05-11T06:04:01Z",
-            "content": ", Apple Vision Pro 2 1500 , , . AR-, Apple Vision Pro, , 400 000-450 000 , . AR- 3 499 , Apple . , Apple Vision Pro 2 Samsung SeeYa, .\r\n, Apple Vision Pro 2 2026 . , 1 542 , , 4K micro-OLED , Sony. ,… [+188 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Overclockers.ru"
-            },
-            "author": "Алексей Сычёв",
-            "title": "Apple договорилась об использовании ChatGPT с OpenAI",
-            "description": "А вот с Google переговоры идут не так успешно.",
-            "url": "https://overclockers.ru/softnews/show/134007/apple-dogovorilas-ob-ispolzovanii-chatgpt-s-openai",
-            "urlToImage": "https://overclockers.ru/st/images/preview/KsIO2dRvVDJMnVQO.jpg",
-            "publishedAt": "2024-05-11T04:50:00Z",
-            "content": "WWDC 2024, Apple , iOS 18, . Bloomberg, Apple OpenAI - ChatGPT iOS 18.\r\n , , . , WWDC 2024 . Google Gemini Apple, - ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Overclockers.ru"
-            },
-            "author": "ddr22",
-            "title": "Apple M4 перешел на архитектуру ARMv9",
-            "description": "Apple представила процессор M4 на своем мероприятии \"Let Loose\", и отметила, что новый чипсет превосходит M3, M2, M3 Pro и Snapdragon X Elite.",
-            "url": "https://overclockers.ru/blog/ddr77/show/157142/Apple-M4-podderzhivaet-arhitekturu-ARMv9",
-            "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/514601_O.png",
-            "publishedAt": "2024-05-11T05:56:01Z",
-            "content": "Apple , M4 ARMv9, . M4 , . Apple M4 «Let Loose», , M3, M2, M3 Pro Snapdragon X Elite.\r\nM4 . , ARMv9 . , Geekbench 6.\r\n M4 Scalable Matrix Extension (SME), . Geekbench 6 M4 M2 4,4 . , ARMv9, M4 .\r\n SM… [+154 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Overclockers.ru"
-            },
-            "author": "[Zero]",
-            "title": "Складные MacBook и iPhone от Apple получат дисплеи Samsung",
-            "description": "Компании заключили соглашение о поставке компонентов.",
-            "url": "https://overclockers.ru/blog/Zeroblog/show/157117/Skladnye-MacBook-i-iPhone-ot-Apple-poluchat-displei-Samsung",
-            "urlToImage": "https://overclockers.ru/st/legacy/blog/378660/514547_O.png",
-            "publishedAt": "2024-05-11T03:00:00Z",
-            "content": "DigiTimes, Apple Samsung . Samsung OLED -, , . , iPhone Apple Samsung, , .\r\n , MacBook, iPad iPhone . 2026 , . Apple , , . , ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Overclockers.ru"
-            },
-            "author": "ddr22",
-            "title": "Функции искусственного интеллекта в iOS 18 для iPhone будут работать на серверах Apple",
-            "description": "Apple планирует использовать серверы искусственного интеллекта, оборудованные чипами M4 и M2 Ultra, для работы функций ИИ в обновлении iOS 18 для iPhone.",
-            "url": "https://overclockers.ru/blog/ddr77/show/157150/Funkcii-iskusstvennogo-intellekta-v-iOS-18-dlya-iPhone-budut-rabotat-na-serverah-Apple",
-            "urlToImage": "https://overclockers.ru/st/legacy/blog/145016/514615_O.png",
-            "publishedAt": "2024-05-11T07:00:01Z",
-            "content": "iOS 18 iPhone (). , , Apple , M4 M2 Ultra. , , iOS 18.\r\niOS 18 iPhone, Apple . , , . , , Apple , iOS 18.\r\n , Apple , . , , iPhone, iPad Mac. , .\r\n Apple . , Apple , , . Apple OpenAI Google, , , .\r\n M… [+48 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kommersant.ru"
-            },
-            "author": "Коммерсантъ",
-            "title": "Bloomberg: Apple заключила соглашение с OpenAI о внедрении ChatGPT в iOS",
-            "description": "Компания Apple.Inc заключила соглашение со стартапом OpenAI в области внедрения технологий искусственного интеллекта на смартфоны iPhone, пишет Bloomberg со ссылкой на источники. Соглашение подразумевает использование ChatGPT в предстоящем iOS 18 от Apple.",
-            "url": "https://www.kommersant.ru/doc/6690091",
-            "urlToImage": "https://im.kommersant.ru/SocialPics/6690091_49_0_825620918",
-            "publishedAt": "2024-05-11T06:10:09Z",
-            "content": "Apple.Inc OpenAI iPhone, Bloomberg . ChatGPT iOS 18 Apple. \r\n , Apple Google - Gemini Alphabet Inc. Bloomberg, , . \r\n c OpenAI Apple - . — Apple (Worldwide Developers Conference), Bloomberg. \r\n 2023 … [+75 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mediafax.ro"
-            },
-            "author": "Iulian Moşneagu",
-            "title": "Apple se apropie de un acord cu OpenAI pentru a utiliza ChatGPT pe iPhone-uri",
-            "description": "Acest acord face parte dintr-un efort mai amplu al companiei din Cupertino de a aduce funcţii cu inteligenţă artificială pe dispozitivele sale.",
-            "url": "https://www.mediafax.ro/economic/apple-se-apropie-de-un-acord-cu-openai-pentru-a-utiliza-chatgpt-pe-iphone-uri-22374078",
-            "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/1686/22374078/1/7947240-hepta-mediafax-foto-zuma-press-hepta-1.jpg?width=640",
-            "publishedAt": "2024-05-11T04:28:05Z",
-            "content": "Cele dou pri au finalizat termenii unui acord pentru utilizarea funciilor ChatGPT în iOS 18 al Apple, urmtorul sistem de operare pentru iPhone, afirm surse citate de Bloomberg. \r\n Apple a purtat, de … [+1555 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Iphone-mania.jp"
-            },
-            "author": "FT729",
-            "title": "iPad Pro（M4）+Apple Pencil Proがついに「配送準備中」に！",
-            "description": "筆者が注文した11インチiPad Pro（M4）とApple Pencil Proが、「配送準備中」になりました。発売日である5月15日に到着予定です。 筆者が11インチiPad Pro（M4）とApple Pencil […]",
-            "url": "https://iphone-mania.jp/news-580173/",
-            "urlToImage": "https://iphone-mania.jp/uploads/2024/05/11/iPad-Pro-M4-iM.jpg",
-            "publishedAt": "2024-05-11T06:35:13Z",
-            "content": "11iPad ProM4Apple Pencil Pro515\r\n11iPad ProM4Apple Pencil Pro57AppleWebApple Store\r\n11iPad ProM4Apple Pencil Pro\r\n515\r\n1TB11iPad ProM4Apple Pencil Pro\r\n11iPad ProM4308,800Apple Pencil Pro21,800\r\n8CPU… [+87 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Mac Observer"
-            },
-            "author": "Nick deCourville",
-            "title": "Is Apple News Worth It in 2024? A Quick Review",
-            "description": "Folks may want to know if Apple News+ is still worth it in 2024, and I think there are several things to review before giving a definite answer. For those who don't know, Apple offers a premium version of its News app, known as Apple News+. It provides a subs…",
-            "url": "https://www.macobserver.com/tips/deep-dive/apple-news-review/",
-            "urlToImage": "https://www.macobserver.com/wp-content/uploads/2019/04/workfeatured-apple-news-text-logo.png",
-            "publishedAt": "2024-05-11T00:11:03Z",
-            "content": "Folks may want to know if Apple News+ is still worth it in 2024, and I think there are several things to review before giving a definite answer. For those who don’t know, Apple offers a premium versi… [+5514 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Mac Observer"
-            },
-            "author": "Abhinav Anand",
-            "title": "Apple Inches Closer to Bring ChatGPT-Powered Features to iPhone: Report",
-            "description": "In March, reports about Apple approaching Google and OpenAI to integrate Gemini and ChatGPT into iPhones surfaced. Per the latest, Apple is inching closer to closing a deal with OpenAI to leverage the popular AI chatbot, ChatGPT, for upcoming iPhone AI-focuse…",
-            "url": "https://www.macobserver.com/news/apple-inches-closer-to-bring-chatgpt-to-iphone-report/",
-            "urlToImage": "https://www.macobserver.com/wp-content/uploads/2024/05/Apple-Inches-Closer-to-Bring-ChatGPT-to-iPhone-Report.jpg",
-            "publishedAt": "2024-05-11T06:31:45Z",
-            "content": "In March, reports about Apple approaching Google and OpenAI to integrate Gemini and ChatGPT into iPhones surfaced. Per the latest, Apple is inching closer to closing a deal with OpenAI to leverage th… [+1686 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xataka.com.mx"
-            },
-            "author": "Gonzalo Hernández",
-            "title": "Apple sabe que ya nadie usa Siri y cree saber cómo remediarlo: con una pizca de inteligencia artifiical",
-            "description": "Siri, el asistente virtual de Apple presente en el iPhone desde 2011, se está preparando para una renovación. La llegada de la inteligencia artificial, como ChatGPT, ha hecho que parezca anticuada, por lo que dentro de la compañía ya se está trabajando en un …",
-            "url": "https://www.xataka.com.mx/robotica-e-ia/apple-sabe-que-nadie-usa-siri-cree-saber-como-remediarlo-pizca-inteligencia-artifiical",
-            "urlToImage": "https://i.blogs.es/b5a297/siri-robot/840_560.jpeg",
-            "publishedAt": "2024-05-11T03:01:37Z",
-            "content": "Siri, el asistente virtual de Apple presente en el iPhone desde 2011, se está preparando para una renovación. La llegada de la inteligencia artificial, como ChatGPT, ha hecho que parezca anticuada, p… [+3644 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xataka.com.mx"
-            },
-            "author": "Luis Acosta",
-            "title": "Apple MacBook 2024: toda la potencia del chip M3 para realizar cualquier tarea y con descuento en Amazon México",
-            "description": "Si quieres la mejor potencia y versatilidad en una laptop, entonces la Apple MacBook Air 2024 con el chip M3 es el dispositivo perfecto para ti. Tiene toda la potencia para realizar cualquier tarea, y la encuentras en Amazon México por 21,899 pesos.\n<!-- BREA…",
-            "url": "https://www.xataka.com.mx/seleccion/apple-macbook-2024-toda-potencia-chip-m3-para-realizar-cualquier-tarea-descuento-amazon-mexico",
-            "urlToImage": "https://i.blogs.es/9d9312/nueva-imagen-ofertas/840_560.jpeg",
-            "publishedAt": "2024-05-11T00:31:36Z",
-            "content": "Si quieres la mejor potencia y versatilidad en una laptop, entonces la Apple MacBook Air 2024 con el chip M3 es el dispositivo perfecto para ti. Tiene toda la potencia para realizar cualquier tarea, … [+1645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Xataka.com.mx"
-            },
-            "author": "Ismael Garcia Delgado",
-            "title": "La ola de calor impide que algunos iPhone se carguen: \"la recarga se reanudará cuando el iPhone vuelva a una temperatura normal\"",
-            "description": "Las olas de calor comienzan a afectar a los celulares. En esta ocasión, usuarios de dispositivos iPhone reportan un mensaje poco usual debido a las altas temperaturas en México que están afectando a la carga de batería. El equipo de Xataka México experimentó …",
-            "url": "https://www.xataka.com.mx/celulares-y-smartphones/ola-calor-impide-que-algunos-iphone-se-carguen-recarga-se-reanudara-cuando-iphone-vuelva-a-temperatura-normal",
-            "urlToImage": "https://i.blogs.es/17e521/ola-calor-mexico-impide-iphone-se-carguen-alta-temperatura/840_560.jpeg",
-            "publishedAt": "2024-05-11T00:01:36Z",
-            "content": "Las olas de calor comienzan a afectar a los celulares. En esta ocasión, usuarios de dispositivos iPhone reportan un mensaje poco usual debido a las altas temperaturas en México que están afectando a … [+1843 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Headlines"
-            },
-            "author": "Prateek Pandey",
-            "title": "Google Maps update to show EV charging stations more easily",
-            "description": "Google is updating its Maps app to make it easier to locate EV charging stations. According to a recent report, the company is bringing even more features to appease users with an Electric Vehicle, seeing how their numbers grow exponentially with each passing…",
-            "url": "https://www.androidheadlines.com/2024/05/google-maps-update-to-show-ev-charging-stations-more-easily.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/05/AH-Google-Maps-EV-Charging-Stations-scaled.webp",
-            "publishedAt": "2024-05-11T00:12:22Z",
-            "content": "Google is updating its Maps app to make it easier to locate EV charging stations. According to a recent report, the company is bringing even more features to appease users with an Electric Vehicle, s… [+2133 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Appgefahren.de"
-            },
-            "author": "Fabian",
-            "title": "Eve Energy: Energiemessung bald auch in Apple Home",
-            "description": "In dieser Woche hat die Connectivity Standard Alliance Version 1.3 des Smart Home Standards Matter vorgestellt. Neben Dunstabzugshauben und Kochfeldern als neue Geräte bietet Matter mit der neuen Version auch eine Unterstützung für Energieverbrauch und Energi…",
-            "url": "https://www.appgefahren.de/eve-energy-energiemessung-bald-auch-in-apple-home-357789.html",
-            "urlToImage": "https://www.appgefahren.de/wp-content/uploads/2024/02/Eve-Energy.jpg",
-            "publishedAt": "2024-05-11T06:40:19Z",
-            "content": "In dieser Woche hat die Connectivity Standard Alliance Version 1.3 des Smart Home Standards Matter vorgestellt. Neben Dunstabzugshauben und Kochfeldern als neue Geräte bietet Matter mit der neuen Ver… [+1736 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Minneapolis Star Tribune"
-            },
-            "author": "Star Tribune staff",
-            "title": "Friday's prep sports results",
-            "description": "Scores and results from around the metro.",
-            "url": "https://www.startribune.com/fridays-prep-sports-results/600365190/",
-            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1715282644",
-            "publishedAt": "2024-05-11T03:56:00Z",
-            "content": "baseball\r\nLAKE\r\n Eden Prairie 12, Buffalo 9\r\n Hopkins 3, Edina 2\r\nMCAA\r\n Spectrum 11-13, North Lakes 1-1\r\nMETRO EAST\r\n Hastings 14, Tartan 2\r\n Simley 11, North St. Paul 1\r\n St. Thomas Academy 9, Hill… [+5419 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Minneapolis Star Tribune"
-            },
-            "author": "MIKE FITZPATRICK",
-            "title": "Homers by Acuña, Albies and Olson in 3rd lead Morton and Braves to 4-2 win over Mets",
-            "description": "Ronald Acuña Jr. hit a titanic home run, just before Ozzie Albies and Matt Olson also went deep in the third inning, and the Atlanta Braves beat the New York Mets 4-2 on Friday night.",
-            "url": "https://www.startribune.com/homers-by-acuna-albies-and-olson-in-3rd-lead-morton-and-braves-to-4-2-win-over-mets/600365184/",
-            "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1715282644",
-            "publishedAt": "2024-05-11T02:45:00Z",
-            "content": "NEW YORK Ronald Acuña Jr. hit a titanic home run, just before Ozzie Albies and Matt Olson also went deep in the third inning, and the Atlanta Braves beat the New York Mets 4-2 on Friday night.\r\nCharl… [+3171 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daemonology.net"
-            },
-            "author": null,
-            "title": "Daily Hacker News for 2024-05-10",
-            "description": "The 10 highest-rated articles on\nHacker News\non May 10, 2024 which have not appeared on any previous\nHacker News Daily\nare:\n<ul>\n<li>\nSound-suppressing silk can create quiet spaces\n(comments)\n</li>\n<li>\nLaunch HN: Muddy (YC S19) – Multiplayer browser for gett…",
-            "url": "https://www.daemonology.net/hn-daily/2024-05-10.html",
-            "urlToImage": null,
-            "publishedAt": "2024-05-11T00:00:00Z",
-            "content": "The 10 highest-rated articles on\r\nHacker News\r\non May 10, 2024 which have not appeared on any previous\r\nHacker News Daily\r\nare:"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Worldsoccertalk.com"
-            },
-            "author": "World Soccer Talk",
-            "title": "Where to find Fulham vs Man City on US TV: May 11, 2024",
-            "description": "Here are all of the details of where you can watch Fulham vs Man City on US television and via legal streaming: WHO Fulham vs Man City WHAT English Premier League WHEN 7:30am ET / 4:30am PT • Saturday, May 11, 2024 WHERE USA, Universo, Fubo, DirecTV Stream, a…",
-            "url": "https://worldsoccertalk.com/watch-on-us-tv/where-to-find-fulham-vs-man-city-may-11-2024/",
-            "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240511_WST_506057_fulham-man-city.jpg[ampersand]width=1200[ampersand]height=740",
-            "publishedAt": "2024-05-11T03:00:00Z",
-            "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applelinkage.com"
-            },
-            "author": "Al",
-            "title": "AppleとOpenAI、iOS 18へのChatGPT搭載でまもなく合意か",
-            "description": "Bloombergのマーク・ガーマン氏が、AppleとOpenAIは「iOS 18」にChatGPTを搭載することでと合意に近づいたと伝えています。 複数の関係者によると、両社は現在iOS 18でChatGPTの機能を使 … 続きを読む AppleとOpenAI、iOS 18へのChatGPT搭載でまもなく合意か →",
-            "url": "https://www.applelinkage.com/2024/05/11/apple-openai-to-soon-agree-on-chatgpt-in-ios-18/",
-            "urlToImage": null,
-            "publishedAt": "2024-05-11T02:13:37Z",
-            "content": "iOS 17.5iPadOS 17.5watchOS 10.5tvOS 17.5"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gagadget.com"
-            },
-            "author": "gagadget.com",
-            "title": "Обновленная Siri станет основой новой стратегии искусственного интеллекта Apple",
-            "description": "The New York Times опубликовал отчет, в котором раскрывается стратегия Apple по переходу к собственной разработке технологии искусственного интеллекта. Один из центральных пунктов этой стратегии - обновление Siri, что должно превратить ее в более современную …",
-            "url": "https://gagadget.com/455097-obnovlennaya-siri-stanet-osnovoj-novoj-strategii-iskusstvennogo-intellekta-apple/",
-            "urlToImage": "https://gagadget.com/media/cache/62/99/62994950b9d859b31e66ef8a0a9a2eff.jpg",
-            "publishedAt": "2024-05-11T02:47:51Z",
-            "content": "The New York Times , Apple . - Siri, .\r\n, Siri Apple . - - OpenAI ChatGPT, , , , Siri .\r\n , , Siri, Apple. \r\n Siri, WWDC 10 , .\r\n , , .\r\n: The New York Times"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gagadget.com"
-            },
-            "author": "gagadget.com",
-            "title": "\"Мы не попали с этим видео\", - Apple извинилась за рекламу нового iPad Pro",
-            "description": "Apple извинилась за недавнюю рекламу нового iPad Pro, в которой показано, как творческие инструменты раздавливаются гидравлическим прессом.",
-            "url": "https://gagadget.com/455025-myi-ne-popali-s-etim-video-apple-izvinilas-za-reklamu-novogo-ipad-pro/",
-            "urlToImage": "https://gagadget.com/media/cache/aa/48/aa481e2ec4ae1c31548180faac201ac9.jpg",
-            "publishedAt": "2024-05-11T00:53:51Z",
-            "content": "Apple iPad Pro, , .\r\n\"Let Loose\" iPad Air iPad Pro. Twitter , Apple, 2500 .\r\n, \"Crush!\", - .\r\n Apple , - , .\r\n YouTube- Apple, , .\r\n:AdAge"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tabletowo.pl"
-            },
-            "author": "Mateusz Budzeń",
-            "title": "Odświeżony Nissan Juke. Sprawdziłem, co się zmieniło",
-            "description": "Druga generacja Nissana Juke doczekała się odświeżenia. Powrócił kolor żółty i producent wprowadził mnóstwo zmian we wnętrzu. Przeczytaj pełny artykuł tutaj: Odświeżony Nissan Juke. Sprawdziłem, co się zmieniło",
-            "url": "https://www.tabletowo.pl/nissan-juke-polift-2024-co-sie-zmienilo/",
-            "urlToImage": "https://www.tabletowo.pl/wp-content/uploads/2024/05/nissan-juke-2024-19.jpg",
-            "publishedAt": "2024-05-11T07:00:00Z",
-            "content": "Druga generacja Nissana Juke doczekaa si odwieenia. Powróci kolor óty, który wystpowa w pierwszej generacji. Do tego dochodzi sporo zmian we wntrzu, sprawiajcych, e japoski, miejski samochód, sta si … [+11743 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tabletowo.pl"
-            },
-            "author": "Mateusz Budzeń",
-            "title": "Odświeżony Nissan Juke. Sprawdziłem, co się zmieniło",
-            "description": "Druga generacja Nissana Juke doczekała się odświeżenia. Powrócił kolor żółty i producent wprowadził mnóstwo zmian we wnętrzu. Przeczytaj pełny artykuł tutaj: Odświeżony Nissan Juke. Sprawdziłem, co się zmieniło",
-            "url": "https://www.tabletowo.pl/nisan-juke-polift-2024-co-sie-zmienilo/",
-            "urlToImage": "https://www.tabletowo.pl/wp-content/uploads/2024/05/nissan-juke-2024-19.jpg",
-            "publishedAt": "2024-05-11T07:00:00Z",
-            "content": "Druga generacja Nissana Juke doczekaa si odwieenia. Powróci kolor óty, który wystpowa w pierwszej generacji. Do tego dochodzi sporo zmian we wntrzu, sprawiajcych, e japoski, miejski samochód, sta si … [+11743 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Feber.se"
-            },
-            "author": "Frode Wikesjö",
-            "title": "Spela Marathon",
-            "description": "Klassiskt Mac-spel är nu gratis på Steam\n\n\n\n\n\n\n\n\n\n\nOm man är sugen på att spela ett Bungie-spel från förr så har nu det första Marathon-spelet hittat till Steam. Det som är kalas här är att det är helt gratis att spela och tillgängligt för både Windows samt M…",
-            "url": "https://feber.se/spel/spela-marathon/467513/",
-            "urlToImage": "https://i.ytimg.com/vi/TRFt2ugWMMY/hqdefault.jpg",
-            "publishedAt": "2024-05-11T06:00:00Z",
-            "content": "+\r\nLäs artiklar före alla andra\r\nKommentera före alla andra\r\nVälj periodJu längre period, desto bättre pris. Du bestämmer! \r\nMånad\r\n39 kr/mån\r\nKvartal\r\n33 kr/mån\r\nÅr\r\n25 kr/mån\r\nVälj hur du vill beta… [+36406 chars]"
-        },
-        {
-            "source": {
-                "id": "der-tagesspiegel",
-                "name": "Der Tagesspiegel"
-            },
-            "author": "Ann-Kathrin Hipp",
-            "title": "Tatort-Kommissar Mark Waschke im Ringbahnpodcast: „Es ist hilfreich und heilsam, sich seiner eigenen Sterblichkeit täglich bewusst zu sein“",
-            "description": "Als Kommissar Karow deckt er Morde und Verbrechen auf. Im Interview spricht Schauspieler Mark Waschke über deutsche Spießigkeit, den Tatort als „moderndes Boulevardtheater“ und die Frage, was nach dem Tod kommt.",
-            "url": "https://www.tagesspiegel.de/berlin/tatort-kommissar-mark-waschke-im-ringbahnpodcast-es-ist-hilfreich-und-heilsam-sich-seiner-eigenen-sterblichkeit-taglich-bewusst-zu-sein-11646008.html",
-            "urlToImage": "https://www.tagesspiegel.de/images/eine-runde-berlinmarkwaschkejpg/alternates/BASE_16_9_W1400/eine-runde-berlinmarkwaschkejpg.jpeg",
-            "publishedAt": "2024-05-11T05:00:35Z",
-            "content": "Seit Jahren deckt er als Berliner Tatort-Kommissar Robert Karow Morde und Verbrechen auf. Modernes Boulevardtheater nennt Mark Waschke das. Im Ringbahnpodcast Eine Runde Berlin spricht der Schauspiel… [+2377 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cnbeta.com.tw"
-            },
-            "author": "ytzong",
-            "title": "苹果承认迄今没有大型应用开发商接受新的应用商店外支付方式",
-            "description": "根据提交给联邦法官的证词，至今没有大型应用程序开发商签约使用苹果公司今年早些时候在其应用程序商店推出的外部支付选项，因为他们支付的费用至少会和以前一样高。\r\n周五，美国地区法官伊冯娜-冈萨雷斯-罗杰斯（Yvonne Gonzalez Rogers）对苹果公司提出的作为反竞争行为补救措施的变革明显缺乏兴趣，她在近四年的时间里一直在监督这家科技巨头与《堡垒之夜》制造商Epic Games Inc.罗杰斯在为期多天的听证会上对苹果公司的一位高管说：\"在我看来，我们的目标似乎是维持你们过去的商业模式和收入。\"听证会的目的…",
-            "url": "https://www.cnbeta.com.tw/articles/tech/1430481.htm",
-            "urlToImage": "https://static.cnbetacdn.com/article/2024/0222/508e6de02b7efb5.jpg",
-            "publishedAt": "2024-05-11T03:35:36Z",
-            "content": "--Yvonne Gonzalez RogersEpic Games Inc.\r\n\"\" Epic iPhone 2021 \r\n 1 65000 38 \r\n 27% App Store 30%\r\n 2000 \r\nEpic 1 App Store \r\n27% -\r\n\"\"\r\n-Alex Roman38 \r\nEpic Yonatan Even App Store \r\n App Store \r\n\"\"\r\n … [+39 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cnbeta.com.tw"
-            },
-            "author": "ytzong",
-            "title": "搭载高通 X Elite 的戴尔笔记本电脑首次泄露",
-            "description": "搭载高通公司 Snapdragon X 系列处理器的设备应该要到今年夏天才会推出，但现在我们有了第一手资料，它们看起来就像和正常的笔记本电脑外形没有区别。\r\n想看看戴尔显然采用高通公司即将推出的骁龙 X Elite 处理器的新笔记本阵容吗？由Windows Report提供的这些泄露的图片是在微软 5 月 20 日的发布会之前获取到的，预计新 Surfaces（和其它最新一批笔记本电脑）将采用相同的芯片。不出意外，它们看起来就像笔记本电脑，尽管整体轮廓更加纤薄。最有趣的机型是戴尔新推出的 XPS 13 9345，…",
-            "url": "https://www.cnbeta.com.tw/articles/tech/1430483.htm",
-            "urlToImage": "https://static.cnbetacdn.com/article/2024/0511/d1789d531190f5d.jpeg",
-            "publishedAt": "2024-05-11T03:36:06Z",
-            "content": "X Elite Windows Report 5 20 Surfaces\r\n XPS 13 9345 2022 XPS 13 Plus USB-C /\r\nXPS 9345\r\nInspiron 14 7441 Plus\r\n Inspiron 14 7441 Plus 16 X Elite 16GB InspironsXPSUSB-CUSB-AmicroSD\r\n 1 XPS Copilot -- W… [+103 chars]"
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16877324.1.16877324",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "9. mai2024kl.10:35Russlands planer om å avholde et «alternativ-OL» beviser at landet bare ønsker å bruke idretten som propaganda, hevder Ukrainas fungerende sportsminister Matviy Bidnyi.\r\nRussland pl… [+1096 chars]"
         }
     ]
 }
